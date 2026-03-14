@@ -1,0 +1,155 @@
+Week 8: STRUCTURAL CONTEXTS
+What are the contexts in which subjectivities
+link with broader social structures and relations,
+and manifest in maps, map-making, and spatial
+data visualization?
+Dr. Ryan Burns
+Interdisciplinary Arts & Sciences
+Responsible AI Washington
+Winter 2026
+rlburns@uw.edu
+
+https://www.washingtonpost.com/business/2026/02/19/data-centers-power-grid-ai/
+
+https://www.washingtonpost.com/business/2026/02/19/data-centers-power-grid-ai/
+
+Week 8: STRUCURAL CONTEXTS
+Read:
+• ▪ M Chs 6-10.
+▪ Anderson, Jung, “Extending the conversation on socially
+engaged geographic visualization”.
+Mapping practice #4: Social Contexts
+
+“[M]aps, by articulating the world in mass-produced and
+stereotyped images, express an embedded social vision.
+Consider, for example, the fact that the ordinary road atlas is
+among the best selling paperback books in the United States
+and then try to gauge how this may have affected ordinary
+Americans' perception of their country. What sort of an image of
+America do these atlases promote?
+JB Harley, “Deconstructing the Map”
+“A map says to you, ‘Read me carefully, follow me closely, doubt
+me not.’ It says, ‘I am the earth in the palm of your hand.
+Without me, you are alone and lost.’”
+Beryl Markham, West with the Night
+
+structural/social context:
+what is social context?
+(re)interpretations of data
+case: food deserts
+
+structural/social context:
+what is social context?
+(re)interpretations of data
+case: food deserts
+
+what do
+we
+mean by
+social
+context?
+https://www.facebook.com/photo?fbid=1529783088510394&set=a.610868297068549
+
+state secrets protecting commercial interests
+
+maps and
+the state
+
+first known choropleth map (by charles dupin, 1826)
+
+power over
+individuals
+
+management
+of populations
+
+‘sovereign’ map
+
+queen elizabeth I (first country atlas)
+
+https://en.wikipedia.org/wiki/Territories_of_the_United_States#/media/File:United_States_(+overseas),_
+administrative_divisions_-_en_-_colored_(zoom).svg
+
+‘colonial’ map
+
+institutional
+contexts
+“Gambling, for instance, is linked to higher rates of suicide. In
+the Canadian province of Alberta in 2003,there were 140
+suicides linked to gambling debts. In Ontario in 2003, there
+were 15 deaths classified as suicides that were linked to
+gambling. Ontario’s population is four times that of Alberta, and
+presumably there are proportionally more gambling venues.
+Should one conclude that gambling is more profitable in Ontario
+than Alberta and thus leads to fewer cases of depression linked
+to debt? A more likely scenario is that the criteria for linking
+suicides togambling are more stringent in Ontario than Alberta.”
+Nadine Schuurman, “Database Ethnographies…”
+
+structural/social context:
+what is social context?
+(re)interpretations of data
+case: food deserts
+
+data: selections,
+interpretations
+
+data: selections,
+interpretations
+
+https://exhibits.temple.edu/s/william-still/page/w-e-b--du-bois-seventh-ward-ma
+
+ttps://c4sr.columbia.edu/projects/million-dollar-blocks
+
+data: selections,
+interpretations
+
+ttps://c4sr.columbia.edu/projects/million-dollar-blocks
+
+data: selections,
+interpretations
+
+Around the time Microsoft invested $10 billion in OpenAI, it laid off ten
+thousand workers to cut costs. After Google watched OpenAI outpace it, it
+centralized its AI labs into Google DeepMind. As Baidu raced to develop its
+ChatGPT equivalent, employees working to advance AI technologies for drug
+discovery had to suspend their research and cede their computer chips to
+develop the chatbot instead. The current AI paradigm is also choking off
+alternative paths to AI development. The number of independent researchers
+not affiliated with or receiving funding from the tech industry has rapidly
+dwindled, diminishing the diversity of ideas in the field not tied to short-term
+commercial benefit. Companies themselves, which once invested in sprawling
+exploratory research, can no longer afford to do so under the weight of the
+generative AI development bill. Younger generations of scientists are falling in
+line with the new status quo to make themselves more employable. What was
+once unprecedented has become the norm.
+-Karen Hao, Empires
+of AI
+
+structural/social context:
+what is social context?
+(re)interpretations of data
+case: food deserts
+
+case: food
+deserts
+Census tracts qualify as food deserts if they meet low-income and low-access
+thresholds:
+•Low-income: a poverty rate of 20 percent or greater, or a median family income at
+or below 80 percent of the statewide or metropolitan area median family income;
+•Low-access: at least 500 persons and/or at least 33 percent of the population
+lives more than 1 mile from a supermarket or large grocery store (10 miles, in the
+case of rural census tracts).
+-USDA (https://www.ers.usda.gov/amber-waves/2011/december/data-feature-mapping-food-deserts-in-the-u-s)
+
+case: food
+deserts
+
+food
+deserts:
+transit
+
+where you think things
+are
+
+

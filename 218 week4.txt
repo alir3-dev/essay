@@ -1,0 +1,153 @@
+Week 4: MAP MAKING AND
+MAP ELEMENTS
+Politics and spatial relations in knowledge
+representation
+Dr. Ryan Burns
+Interdisciplinary Arts & Sciences
+Responsible AI Washington
+Winter 2026
+rlburns@uw.edu
+
+Week 4: MAP MAKING AND MAP ELEMENTS
+Read:
+•KW Chapters 4, 7, 9-12; M Ch2
+
+No assignments for this week!
+
+“Small-scale generalized maps often are authored views of a
+landscape or a set of spatial data. Like the author of any
+scholarly work or artistic creation based on reality, the
+conscientious map author not only examines a variety of
+sources but also relies on extensive experience with the
+information or region portrayed. Intuition and induction guide
+the choice of features, graphic hierarchy, and abstraction of
+detail. The map is as it is because the map author “knows” how
+it should look. This knowledge, of course, might be faulty, or the
+resulting graphic interpretation might differ significantly from
+that of another competent observer. As is often the case, both
+views might be valid.”
+
+(more) map choices:
+figure-ground relation
+(more) symbology
+map elements
+…what else?
+
+(more) map choices:
+figure-ground relation
+(more) symbology
+map elements
+…what else?
+
+Figure-ground
+relationship
+
+Figure-ground
+relationship
+
+Figure-ground
+relationship
+importance is
+highlighted
+unimportant is context,
+background
+
+Figure-ground
+relationship
+importance is
+highlighted
+unimportant is context,
+background
+
+importance is
+highlighted
+
+unimportant is context,
+background
+
+https://www.gisci.org/News-Old/Issues-News-Policy/gisci-celebrates-exceptional-cartographic-talent-announcing-the-2024-map-contest-winners
+
+Figure-ground
+relationship
+
+(more) map choices:
+figure-ground relation
+(more) symbology
+map elements
+…what else?
+
+(more) map choices:
+figure-ground relation
+(more) symbology
+map elements
+…what else?
+
+https://www.gisci.org/News-Old/Issues-News-Policy/gisci-celebrates-exceptional-cartographic-talent-announcing-the-2024-map-contest-winners
+
+(1) the important elements and features
+of a map
+
+intellectual hierarchy
+
+(1) the important elements and features
+of a map
+
+(2) the order of their importance to the
+reader.
+
+intellectual hierarchy
+
+(1) the important elements and features
+of a map
+
+(2) the order of their importance to the
+reader.
+
+intellectual hierarchy
+
+i.e.:
+1. population density in Seattle
+2. roads
+3. contextual information (the state, Van is.,
+etc.)
+4. map title
+5. subtitle
+6. legend
+7. scale bar
+8. N arrow
+9. projection, data source, author, etc.
+
+reinforces the intellectual hierarchy
+
+visual hierarchy
+
+intellectual hierarchy
+
+https://www.e-education.psu.edu/geog486/node/1858
+
+visual hierarchy
+
+intellectual hierarchy
+
+https://www.e-education.psu.edu/geog486/node/1858
+
+visual hierarchy
+
+intellectual
+and visual
+hierarchy
+
+is a map necessary or useful? if you think
+so, what would be necessary to add here?
+
+https://www.reddit.com/r/MapPorn/comments/1qlxxdb/8_us_states_have_laws_that_prohibit_atheists_from/
+
+power of maps [pt 1]
+
+https://tracreports.org/reports/762/
+
+power of maps [pt 2]
+
+https://iceout.org/en/
+
+

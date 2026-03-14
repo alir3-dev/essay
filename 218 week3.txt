@@ -1,0 +1,193 @@
+Week 3: GEOGRAPHICAL
+CONTEXTS, MAPS AND
+REPRESENTATION
+So many choices, so many distortions! Let’s see
+how many we can enumerate.
+Dr. Ryan Burns
+Interdisciplinary Arts & Sciences
+Responsible AI Washington
+Winter 2026
+rlburns@uw.edu
+
+WEEK 3: GEOGRAPHICAL CONTEXTS, MAPS AND REPRESENTATION
+Read:
+•KW Chapters 5 & 6; M Ch3
+
+Assignments for Week Three (Due Friday 11:59pm):
+•Mapping Practice 1
+This video will help!
+https://www.youtube.com/watch?v=kIID5FDi2JQ
+
+https://www.cbsnews.com/news/greenland-maps-important-shipping-
+
+https://www.wsj.com/world/europe/greenland-national-defense-maps-6f53c339
+
+https://x.com/MiningVisuals/status/2011400376373948516/photo/1
+
+https://www.euratlas.net/history/europe/1600/index.html
+
+“Not only is it easy to lie with maps, it’s essential.”
+
+“A single map is but one of an indefinitely large
+number of maps that might be produced for the
+same situation from the same data.”
+“[Maps], like speeches or paintings, are authored
+collections of information and are also subject to
+distortions arising from ignorance, greed,
+ideological blindness, or malice.”
+
+Map choices:
+Projection
+Scale
+Symbology
+…what else?
+
+Map choices:
+Projection
+Scale
+Symbology
+…what else?
+
+The shortest distance
+between 2 points is a
+straight line…
+
+The shortest distance
+between 2 points is a
+straight line…
+
+…or is it?
+
+The shortest distance
+between 2 points is a
+straight line…
+
+…or is it?
+
+distortions:
+seattle → london
+
+https://www.youtube.com/watch?v=eLqC3FNNOaI
+
+3D → 2D distortion
+shape (of a region)
+distance (between two points)
+direction (bearing from A → B)
+area (of a region)
+
+https://gis.harvard.edu/out-eden-walk
+
+Source: van Wijk. 2008. “Unfolding the Earth: Myriahedral Projections”. The
+Cartographic Journal.
+
+Source: van Wijk. 2008. “Unfolding the Earth: Myriahedral Projections”. The
+Cartographic Journal.
+
+Source: van Wijk. 2008. “Unfolding the Earth: Myriahedral Projections”. The
+Cartographic Journal.
+
+All maps distort (they lie): but the way in which
+it distorts is up to the mapmaker!
+Therefore, you can “read” the distortions as
+working to achieve particular social, political,
+epistemological, and/or aesthetic/creative goals.
+
+https://www.wbur.org/news/2017/03/16/world-maps-boston-public-schools
+
+https://www.theguardian.com/education/2017/mar/19/bost
+on-public-schools-world-map-mercator-peters-projection
+
+https://www.wbur.org/news/2017/03/16/world-maps-boston-public-schools
+
+https://www.theguardian.com/education/2017/mar/19/bost
+on-public-schools-world-map-mercator-peters-projection
+
+Map choices:
+Projection
+Scale
+Symbology
+…what else?
+
+reduction in the representation of a real
+world geographic phenomenon on a map
+or, the ratio - map : earth
+
+Scale
+
+verbal scale
+
+representative
+fraction
+bar scale
+
+reduction in the representation of a real
+world geographic phenomenon on a map
+or, the ratio - map : earth
+
+Scale
+
+verbal scale
+1 inch = 2000 ft
+map distance
+
+ground distance
+
+representative
+fraction
+bar scale
+
+reduction in the representation of a real
+world geographic phenomenon on a map
+or, the ratio - map : earth
+
+Scale
+
+verbal scale
+1: 24,000
+map distance
+
+ground distance
+
+representative
+fraction
+bar scale
+
+reduction in the representation of a real
+world geographic phenomenon on a map
+or, the ratio - map : earth
+
+Scale
+
+verbal scale
+
+map distance
+
+ground distance
+
+representative
+fraction
+bar scale
+
+Map choices:
+Projection
+Scale
+Symbology
+…what else?
+
+https://www.researchgate.net/figure/Jacques-Bertins-graphic-semiology-16_fig2_379864841
+
+https://www.mdpi.com/2220-9964/9/3/142
+
+https://www.istockphoto.com/illustrations/oil-well-icon
+
+https://gamequitters.com/emoji-slang-meanings/
+
+https://www.istockphoto.com/illustrations/oil-well-icon
+
+https://www.pinterest.com/mapdiva/map-styles-map-symbols/
+
+https://www.daydreameducation.com/map-symbols-poster
+
+https://study.com/learn/lesson/map-key-symbols-examples.html
+
+

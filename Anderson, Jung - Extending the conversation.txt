@@ -1,0 +1,1022 @@
+Urban Geography
+
+ISSN: 0272-3638 (Print) 1938-2847 (Online) Journal homepage: www.tandfonline.com/journals/rurb20
+
+Extending the conversation on socially engaged
+geographic visualization: representing spatial
+inequality in Buﬀalo, New York
+Jin-Kyu Jung & Christian Anderson
+To cite this article: Jin-Kyu Jung & Christian Anderson (2017) Extending the conversation on
+socially engaged geographic visualization: representing spatial inequality in Buﬀalo, New York,
+Urban Geography, 38:6, 903-926, DOI: 10.1080/02723638.2016.1184854
+To link to this article: https://doi.org/10.1080/02723638.2016.1184854
+
+Published online: 17 May 2016.
+
+Submit your article to this journal
+
+Article views: 1123
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rurb20
+
+URBAN GEOGRAPHY, 2017
+VOL. 38, NO. 6, 903–926
+https://doi.org/10.1080/02723638.2016.1184854
+
+Extending the conversation on socially engaged geographic
+visualization: representing spatial inequality in Buﬀalo,
+New York
+Jin-Kyu Jung and Christian Anderson
+Interdisciplinary Arts and Sciences, University of Washington-Bothell, Bothell, WA, USA
+ABSTRACT
+
+ARTICLE HISTORY
+
+This paper is situated at the intersections among GIS and geovisualization, critical social theory, and urban studies. It presents an
+analysis of housing segregation and unequal food and transportation access in Buﬀalo, New York. We demonstrate how the representation and examination of this socially complex multi-scalar
+issue beneﬁts from deliberate, reﬂexive conversation between
+diﬀerent critical social-spatial epistemologies. We begin with a
+relatively simple GIS analysis of spatial segregation and arrive
+through critical iteration at a more qualitatively nuanced cartogram which moves beyond representations of ﬁxed space to
+reveal a much more relational situation—a case of “time-space
+expansion” in which the travel time needed to meet a basic daily
+need is much greater for the poor and people of color than it is for
+whiter, more aﬄuent populations. We conclude by infusing this
+narrative with additional considerations from social theory to
+show how even a limited visualization such as ours might better
+critically engage broader social and discursive processes in and
+across urban space.
+
+Received 9 November 2015
+Accepted 13 April 2016
+KEYWORDS
+
+Critical geovisualization;
+social-spatial inequality;
+cartogram; transportation;
+time–space expansion
+
+Introduction
+This paper is an eﬀort to bring qualitative GIS, critical geovisualization, and social
+theory into further engagement with questions about urban inequality. We oﬀer a
+situated argument about housing segregation and unequal food and transportation
+access in Buﬀalo, New York that reﬂects broadly on methodological and theoretical
+questions, but also equally attempts to show how critical scholars might understand a
+set of real world urban conditions in new and generative ways. This is a conversation
+between diﬀerent orientations to urban and social research that opens up conclusions
+which would not have been possible without such an exchange.1
+We present an analysis that initially seems straightforward, but becomes increasingly
+complex with additional consideration. At each step, we are explicit about the methodological choices we are making as well as the theoretical positions and social commitments that are behind them. We begin in the ﬁrst sections by framing a broad set of
+tensions around the use of critical cartography and geovisual methods to represent and
+CONTACT Jin-Kyu Jung
+
+jkjung5@uw.edu
+
+© 2016 Informa UK Limited, trading as Taylor & Francis Group
+
+904
+
+J.-K. JUNG AND C. ANDERSON
+
+analyze urban social inequality. We ask whether and how the increasing power of
+geovisual techniques and technologies alongside the increasing availability of potentially
+visualizable data has altered or extended the ability to “see” and analyze urbanized
+socio-spatial inequality in a critical way. The middle sections of the paper then move on
+to explore these questions through examination of a case in Buﬀalo, New York. We use
+a relatively simple GIS buﬀer analysis to demonstrate a pattern wherein poor populations of color are concentrated within speciﬁc areas that are also distant from supermarkets. We subsequently add layers of geovisualization which attempt to incorporate
+additional social dimensions into our analysis of urban inequality. In an eﬀort to
+develop a geovisualization that more explicitly and reﬂexively integrates social and
+spatial imaginaries beyond simple Cartesian understandings of urban space, we substitute absolute distance for travel time to the supermarket by bus as a key variable to
+create a cartogram of social-spatial inequality.
+Where the ﬁrst two movements of the paper develop a critical visual methodology,
+the subsequent discussion puts those methods in reﬂexive conversation with broader
+currents in social-spatial theory in order to more generally consider how geovisual
+methods might best be critically situated in relation to analyses and discourses of urban
+poverty. Here we argue that the cartogram we developed is eﬀectively a representation
+of what has been termed “time-space expansion” in social theory (Katz, 2004) and we
+use this to further explore how what is being “seen” in our analysis of Buﬀalo is indeed
+far more multi-faceted and multi-scalar than what maps and visualization tools are able
+and often presumed to represent in and of themselves. We leverage this insight to
+connect our limited case to broader urban phenomena such as deindustrialization,
+disinvestment, crises of social reproduction, and the racialization of particular bodies
+in urban space—processes that deeply condition the case that we present but that are
+not easily or typically “mapped” and perhaps cannot ever be fully visualized in a strictly
+empirical sense. We also identify two very divergent potential interpretations of our
+cartogram within diﬀering analytical frameworks for understanding urban poverty and
+inequality—one grounded in negative critique and the other maintaining a positive
+asset-based approach. In light of these considerations, we conclude that spatio-temporal
+information, maps, and geovisualization techniques themselves might best be understood as powerful yet limited pieces of subjective—that is, both partial and aﬀectively
+ambiguous—data that are best pursued in holistic conjunction with additional methodological and theoretical frameworks which more thoroughly situate them and engender deeper critical engagements with broader processes—socio-spatial as well as
+discursive—that no map or visualization alone can ever fully represent.
+
+Is there an app for that?
+During a recent panel discussion2 about the legacies of the Detroit Geographical
+Expedition and Institute (DGEI)3, former DGEI core participant Ron Horvath was
+asked what he would change if he could go back and do it all again. After thinking for a
+moment, Horvath replied that he would have pushed harder for geographers to establish themselves as the people who could deﬁnitively identify when and where spatial
+inequality was taking place. He used the example of gerrymandering, an issue that the
+DGEI had attempted to confront directly in relation to school redistricting in Detroit.
+
+URBAN GEOGRAPHY
+
+905
+
+Horvath said he wished that the DGEI could have come up with a tool that communities could use to decisively detect and object wherever gerrymandering was attempted.
+“Now,” Horvath said, “That would be an app!”
+Horvath’s comments spoke directly to the potential uses of mapping, spatial data,
+and geographic visualization to identify and potentially intervene in processes that
+produce socio-spatial inequality. And though the audience laughed at the quip about
+an anti-gerrymandering app, the comment reﬂected a serious set of concerns. The
+ability to easily, cheaply, and powerfully map and visualize spatial data now extends to
+communities of practice well beyond the discipline of geography, the university, or any
+particular professional sphere. Parallel, the ongoing advancement of technology has
+enabled sophisticated analytical cartographic and visualization techniques of which
+participants in early radical mapping projects like those undertaken within the DGEI
+could only have dreamed. By now these observations are familiar, as are related
+questions about whether “seeing”—let alone really understanding—spatial inequality
+could ever be as straightforward as the epitome of the app would suggest. It is well
+known that important relationships can get lost or obscured in the necessarily reductive
+translation to visual representation, rendering out social contexts that no app or map
+could ever fully show (see, e.g. Crampton & Krygier, 2006; Elwood, Schuurman, &
+Wilson, 2011; Harvey, Kwan, & Pavlovskaya, 2005; Kitchin & Dodge, 2007; Leszczynski,
+2009; Pavlovskaya, 2006). And yet the potential upshot—the powerful ability to show
+inequality and perhaps contribute to its alleviation—compels critical cartographers to
+“go on visualizing” nonetheless.4
+Meanwhile, Horvath’s comments also subtly pointed to an additional and related set
+of epistemological considerations. He was clearly advocating a deliberate choice to use
+cartographic visualization to try and see and then re-present inequality in urban space
+in a subjectively situated, socially invested way, from the outset. The DGEI ultimately
+became legendary within critical and radical geography in no small part because its
+participants disrupted conventional ideas of what should be mapped, how, by whom,
+for what purposes. They took cartographic practices that had up until then largely been
+utilized for objective positivist analysis and deliberately repurposed them to identify and
+critique visceral urban inequalities in order to better intervene in a deeply political, very
+particular set of struggles. Within broader debates about the mixed potential of the
+visual and the technological more generally, it is worth interjecting here that no map or
+app will ever adequately represent socio-spatial inequality or social struggle if the
+antecedent epistemological choices are not made with a commitment to surface and
+grapple with such issues in the ﬁrst place. At the same time, the experience of the DGEI
+further implies that no set of spatial data or cartographic methods should ever be
+viewed as adequate, in and of itself, to social critique or transformation. That achievement, it would seem, is at least equally contingent on the values of the particular
+communities of social praxis and meaning making in which spatial data and methods
+are embedded, for better or worse.
+These overlapping reﬂections on the limits of geographic visualization and the
+particular, invested choices and forms of praxis that condition any socially engaged
+project of spatial analysis have great potential to inform one another. But such a
+synthesis also requires diﬃcult and often awkward epistemological conversations across
+diﬀerent modes of spatial and social analysis. In what follows, we attempt just such a
+
+906
+
+J.-K. JUNG AND C. ANDERSON
+
+conversation by taking as our starting point the notion, evoked by Horvath’s comments
+above, that critical geovisualization might make it possible to “see” and “show” urban
+social space in ways that are at once revealing and problematic; revealing because of the
+potential to represent socio-spatial relationships and inequalities that might otherwise
+be invisible or become reiﬁed, problematic because the always already socially invested
+character of geovisualization itself means that other forms of invisibility, reiﬁcation, and
+subjection can easily be (re)produced in that same process of revealing. These limitations, closely related to the abstract and always incomplete nature of geovisual representation itself, have been widely acknowledged by critical GIS researchers (Aitken &
+Craine, 2009; Elwood & Leszczynski, 2013; Kitchin, Gleeson, & Dodge, 2013;
+Schuurman, 2002). Our goal in this paper is not to replicate these arguments, but to
+extend and in some senses overcome them in and through an analysis that is sensitive
+to such critiques while also explicitly committed to “seeing” urban space in a way that
+emphasizes our social commitments and the diﬀerent potential subjective interpretations of our representations. In this regard, our contribution here might best be
+understood as an exercise in “situated” or “minor” mapping.5 The goal is not to
+produce any grand original or universal theory, but rather and more modestly to
+present a small intervention and show how it could ﬁnd traction precisely at the points
+where it can be productively connected to broader conversations about social inequality
+that have emerged from a disparate range of other situated projects elsewhere. We
+extend the conversation on socially engaged geovisualization by talking across epistemologies as well as showing how a commitment to this double-edged kind of social
+engagement can compound modest analyses like ours within arguments that are much
+greater in scope. These arguments are oﬀered not as deﬁnitive or total, but as a
+suggestive contribution to burgeoning conversations bridging method, theory, and
+questions of urban inequality.
+
+Situating critical geovisualization
+What are the qualities of geovisualization that necessitate the kind of “double-edged”
+engagement we are claiming is necessary here? Geovisualization is conceptualized as
+having more visual analytical power than conventional mapping and has been applied
+with increasing interest across a wide variety of disciplines (Bodenhamer, Corrigan, &
+Harris, 2010; Coulis, 2010; Dorling, 2012). Whereas conventional maps typically provide literal, static representations of absolute spaces at a given point in time, geovisualization attempts to represent speciﬁc spatial data and relationships in ways that often
+include temporal, interpretive, or interactive elements. Geovisualization provides an
+opportunity for the creator or user of the visual—which typically takes the form of a
+map—to explore data and reveal previously hidden patterns, unknowns, and marginalized perspectives. Geovisualization can therefore provide unique perspectives while
+opening up new possibilities to manipulate and interpret the visual. By extension, GIS
+and geovisualization makes it possible to “see” the spatial dimensions of social relations
+—urban or otherwise—in ways that conventional mapping cannot.
+The potential for socially engaged, critical, and even radical applications of geovisualization are closely bound to the epistemological qualities of the method. The critical
+mapping, cartography, and GIS communities have long been attentive to the ways that
+
+URBAN GEOGRAPHY
+
+907
+
+maps can unwittingly naturalize and reproduce the unequal power relations that may be
+present within that which they intend to represent, and numerous innovative ways of
+conducting reﬂexively critical research with GIS have been developed as a result (Cope
+& Elwood, 2009; Crampton, 2001; Darden & Wyly, 2010; Jones & Evans, 2012; Kwan,
+2007; Pavlovskaya, 2006). The past two decades in particular have seen a tremendous
+growth in eﬀorts to understand the intellectual position of GIS and the theory behind it
+through research on everyday life (e.g. critical GIS), the incorporation of GIS with
+qualitative data and research as a mixed-methods approach (e.g. qualitative GIS), and
+community engaged GIS practices (e.g. Public Participatory GIS). These are all inﬂuential trends in the evolution of critical GIS as a whole (Elwood, 2014; Knigge & Cope,
+2009; Kwan, 2004; Lin, 2013; Pickles, 1995; Schuurman, 1999). Socially engaged GIS
+practices, meanwhile, have continued to challenge the conventional use of GIS and
+encourage the development of a critical focus that destabilizes ﬁxed social and spatial
+categories. Visual analyses and representation in GIS are more powerful than ever due
+to the advancement of Information and Communications Technology (ICT) and new
+mapping technologies (e.g. spatial media, Apps). However, critical GIS scholars warn
+that these can only go so far in representing the full complexity of many phenomena
+that are not typically or fully “represented” in a geovisual form.
+Critical geovisualization oﬀers a distinct opportunity to continue this tradition of
+innovation and methodological reﬂexivity in a manner that is deeply attuned to the
+broader social processes which structure the places and spaces that are being analyzed.
+Because it allows the representation of complex patterns and relationships across
+multiple spatial and temporal registers, critical geovisualization can be used not only
+to see, but also interpret and render more visible phenomena such as poverty, gerrymandering, spatial mismatches, and numerous other processes related to social inequality. Crucially, geovisualization can shift the analysis of these phenomena beyond mere
+reporting or representation of where they take place, toward greater emphasis on the
+broader spatial-social relations through which they are produced. It has a potential to
+allow the geographer to “twist space into the condition” the researchers wish to show
+(Bunge, 1966, p. 238)—to make the choice to see and represent space in particular,
+invested ways. Geovisualization therefore oﬀers a unique means of linking analyses of
+spatial-social relations across multiple scales and, potentially, identifying broader structural formations that would likely need to be confronted and transformed if such
+inequalities are ever to be redressed beyond local triage.
+It is at this point—where particular geovisual representations and analyses begin to
+reveal something of the social relations that link their particular spaces and objects of
+analysis to other, broader spatial and temporal scales—that we argue critical geovisualization pushes up against its own critical limits and invites conversation with other
+modes of spatial-structural analysis. Geovisualization is potentially a powerful tool for
+critical social engagement, but perhaps only in so far as it is accompanied by an acute
+recognition of its analytical blind spots and judiciously paired with other methods that
+help articulate and indeed navigate connections to those processes, scales, and registers
+which geovisualization cannot fully channel or represent. This is not as an argument
+about methodological weakness so much as a reminder of partiality, and with that, an
+incitement to supplement the partial perspective of geovisualization with other limited
+perspectives from social theory.6 There is great analytical potential where particular
+
+908
+
+J.-K. JUNG AND C. ANDERSON
+
+forms of visualization are deliberately constructed to facilitate a deeper engagement
+with nonvisual social and spatial theories and broader structural issues. This potential
+might best be realized through a multilayered approach to geovisualization that is also
+committed to exploring ﬂuid, multi-scalar processes by combining critical and qualitative GIS practices with accompanying geovisual artifacts to represent “theory” directly
+in the form of visualization. It requires a processual understanding of geovisualization
+that constantly opens up new ways of seeing relational geographies in urban space.7
+This is diﬀerent from simply visualizing critical “data” in and of itself.8 Instead it is an
+eﬀort to embed, situate, and understand data as one part in a larger conversation with
+social and spatial theories. Paired with parallel ambitions to analyze charged phenomena such as socio-spatial inequality in explicit and particularly invested ways, this is
+socially engaged geovisualization in the fullest and strongest sense.
+Ultimately, perhaps the best way to demonstrate and evaluate these claims about the
+interrelated methodological partiality and potential social engagement of geovisualization is to apply them to a speciﬁc example. What follows is such an example. It presents
+an analysis that interweaves reﬂective geovisual methods with social theory in the
+manner we are gesturing toward in an attempt to demonstrate the potentially productive relationship between socially engaged geovisualization and critical urban theory.
+
+Visualizing socio-spatial inequality in Buﬀalo and Buﬀalo’s East Side
+The conditions of life in Buﬀalo, New York and its associated narratives of decline may
+be familiar to many as they are similar to those that many Rust Belt cities faced in the
+latter decades of the twentieth century. While not long ago the city was a thriving
+industrial center, contemporary Buﬀalo has been marked by the loss of industry, jobs,
+and population, and alongside those by an increase in economic and social disadvantage among populations that remain (Cope & Latcham, 2009; Goldman, 1990). Buﬀalo’s
+population has been in decline since the 1950s. In 2010, Buﬀalo’s population was
+261,310, a 10.71% decline from the year 2000 (U.S. Census Bureau, 2010). Buﬀalo’s
+unemployment rate hit a new high of 12.1%, in July of 2012, while the average home
+price hit a new low of $94,000 in the same year. Meanwhile, the poverty rate increased
+from 26.9% in 2000 to 30.1% in 2010.
+While those general patterns apply to the city as a whole, additional demographic
+and spatial measures reveal that they are not equally distributed in space. For one, the
+pattern of population distribution by race reveals heavy segregation. In 2013, the
+Buﬀalo/Niagara Falls Metropolitan Statistical Area (MSA) ranked as the ﬁfth most
+racially segregated metropolitan area across multiple dissimilarity indexes (U.S.
+Census Bureau, 2010). In Figure 1, the size of the pie chart proportionately represents
+total population within each census tract, and each pie chart is broken down into
+categories of “White, non-Hispanic,” “Black, non-Hispanic,” “Asian, non-Hispanic,”
+“Other Race,” and “Hispanic” to show the percentage of the population by race and
+ethnicity.9 Except for a few census tracts in the northeast, the population in each tract
+remains relatively similar throughout the city. The racial composition, however, clearly
+diﬀers dramatically in diﬀerent areas. White populations are concentrated in North and
+South Buﬀalo. The Lower Westside of Buﬀalo is more diverse, with a “Hispanic”
+majority. Finally, large sections of Buﬀalo’s East Side are predominantly Black.10 An
+
+URBAN GEOGRAPHY
+
+909
+
+Figure 1. Distribution of racial and ethnic groups in Buﬀalo, NY, 2010.
+
+analysis of median household income by census tract also reveals a similar pattern of
+unequal distribution (see, Figure 3 in the following section). The lowest median household income groups are located at the center of the city, which are the major residential
+areas of Black and Hispanic populations. Areas with predominantly White populations
+have disproportionally higher incomes.
+Buﬀalo’s East Side is of particular interest. This is a predominantly AfricanAmerican area with a disproportionate number of low-income residents and a history
+more troubled than that of the city as a whole. Over the last 40 years, this area has
+experienced both tremendous population decline and erosion in the economic fortunes
+of its residents. In 1980 and 1990, 28% and 35% of its residents were below the poverty
+line, respectively—nearly 10% higher than the average for the city during the same
+periods.11 The trend shows no sign of abating as the 2007 United States Census Bureau
+
+910
+
+J.-K. JUNG AND C. ANDERSON
+
+American Community Survey estimated that 30.1% of people in the city of Buﬀalo lived
+under the poverty line while the number was 46% for the residents of the East Side. This
+was 7 times higher than the percentage (6.9%) of people living in poverty in the suburbs
+surrounding Buﬀalo.
+At this point, we would like to emphasize that some of the limitations of maps as
+reporting and analytical devices are already evident here even after such a shallow
+discussion. While the data and maps we have presented demonstrate deﬁnitively that
+spatial segregation and income inequality by race and ethnicity exist in Buﬀalo and
+appear to aﬀect Buﬀalo’s East Side most especially, they do not self-evidently oﬀer any
+particular explanation for why this might be the case. While we do venture some
+explanation later in the discussion, here we would simply like to emphasize the
+social-analytical ambiguity of data and maps in and of themselves. Speaking of another
+visual form—photography—art historian and cultural critic John Berger once argued,
+“Photographs in themselves do not narrate” (Berger, 1991, p. 55). Photographs, Berger
+(1991, p. 55) said:
+“. . . oﬀer appearances—with all the credibility and gravity we normally lend to appearances—prised away from their meaning. Meaning is the result of understanding functions.
+‘And functioning takes place in time, and must be explained in time. Only that which
+narrates can make us understand.’”
+
+The sub-quote is from the Susan Sontag book On Photography, in response to which
+Berger wrote this essay. Berger emphasizes that photographs do not self-evidently reveal
+any particular meaning, but are artifacts ripped out of context in a manner that can
+then lend the appearance of credibility to a range of diﬀerent narratives that may have
+diﬀering degrees of accuracy.
+While the analogy is not exact, Berger’s words also apply to geovisualization. Maps
+and spatial data can be plugged in to a broad range of powerful stories, but they do not
+adequately narrate themselves. The maps of Buﬀalo’s East Side that we have so far
+shown might, for instance, just as easily be fed into racialized and hyper-conservative
+narratives of individual deﬁciency and “the culture of poverty” as they might into
+critical narratives of systematic inequality.12 Truly reﬂexively socially engaged critical
+geovisualization would therefore need to do much more to specify context, constrict
+available interpretations, add additional layers of data and analysis, and reveal additional patterns that complicate the narrative. This might be achieved in part by
+foregrounding commitments to try and see complex phenomenon like urban inequality
+in particular ways as part of the analytical and theoretical process itself. In the following
+section, we attempt to model such speciﬁcation and narrative complication by adding
+additional data about the spatial and temporal dimensions of food and public transportation availability to our analysis of Buﬀalo’s East Side while also situating these
+dimensions in broader social and theoretical contexts.
+
+Visualizing food and transportation access
+The character of access to food is a telling indicator of the social conditions in a given
+neighborhood. Food accessibility reﬂects characteristics of both the land use system and
+the transportation system in a given area (Handy & Clifton, 2000). Moreover, since land
+
+URBAN GEOGRAPHY
+
+911
+
+use, transportation, and economic investment are all socially produced, the level of
+access to food can be understood in relation to broader processes of social inclusion or
+exclusion.
+There is a substantial literature about the disparities between and geographical
+limitations to food access within numerous urban settings (Clarke, Eyre, & Guy,
+2002; Eisenhauer, 2001; Metcalf & Widener, 2011; Wrigley, Warm, & Margetts,
+2003). Communities that lack access to food have often been described as being located
+in “food deserts,” a term ﬁrst coined by a government nutrition task force in the United
+Kingdom in 1995 (Beaumont, Lang, Leather, and Mucklow, 1995). Perhaps the simplest
+deﬁnition of a food desert is an area where people experience physical, economic, and
+social barriers which prevent access to healthy food (McEntee & Agyeman, 2010). The
+phenomenon is closely related to the tendency for large grocery stores to locate in areas
+proximate to higher income populations and greater property values—a tendency
+which has meant that many de-industrialized central city areas have experienced a
+lack of investment in supermarkets alongside loss of jobs, income, and population.
+In Buﬀalo, these factors have resulted in a food retail landscape where aﬄuent white
+areas are over-served by supermarket grocery stores while—as others have demonstrated (Epstein & Watson, 2006; Lee & Lim, 2009) and as we corroborate—areas that
+are home to people of color and the poor are underserved. While small corner stores
+may be present in underserved areas, fresh produce can rarely be found there because
+small businesses are more likely to carry only less perishable items such as instant and
+canned foods. And since economies of scale allow food sold in supermarkets to be
+cheaper and to cover a wider range of items than in smaller stores, the food prices in
+corner stores are often much higher—in Buﬀalo, up to 60% in some cases (Epstein &
+Watson, 2006)—than in big supermarkets. The foodscape in these areas is therefore
+often one in which residents’ access to a variety of fresh foods at more aﬀordable prices
+is contingent on transportation beyond the immediate area.
+Continuing the discussion of residential segregation presented above, we would like
+to show how geovisualization can provide powerful evidence of the magnitude and
+broader social character of the limited food accessibility experienced by some residents
+of Buﬀalo, and by residents of the East Side in particular. We begin by using basic
+geographic visualization techniques to reveal the food-excluded areas that are present in
+Buﬀalo. We then complicate that analysis by considering temporal and social distance
+rather than absolute distance to produce a cartogram. The cartogram surfaces the
+inequalities that local residents experience while opening up a number of additional
+structural and theoretical considerations. This limited example models a conscientious
+research framework for understanding the socially constructed character of spatial
+inequality in Buﬀalo as well as a model demonstration of the constructive and qualitative character of mapping—from data-selection through to the spatial analyses,
+visualization, and theorizations that situate the ﬁnal representation within broader
+social formations.
+According to the Yellow Pages and the Food & Grocery directory on the local
+website www.buﬀalo.com, three major chains constitute the supermarket grocery stores
+in Buﬀalo: Tops Friendly Markets, Wegmans, and Jubilee. Following the closing of two
+Jubilee Foods stores and the construction of three new Tops Friendly Market stores
+between 2003 and 2013, there are currently ten total supermarket grocery stores in
+
+912
+
+J.-K. JUNG AND C. ANDERSON
+
+Buﬀalo.13 Figure 2 shows the location of these existing supermarkets and their service
+area using 1.0 mile as a buﬀer distance. In densely populated urban areas such as Buﬀalo,
+the distance that urban residents can live from a food retailer before being categorized as
+having inadequate food access can be as little as 500 meters or roughly 1/3 of the
+distance we have chosen as a buﬀer area here (Clarke et al., 2002; Whelan, Wrigley,
+Warm, & Cannings, 2002). The wider 1 mile distance from a supermarket has been used
+elsewhere as a threshold to assess an urban community’s access to aﬀordable and healthy
+food in the United States, especially for low-income households who do not own a
+vehicle (Ver Ploeg et al., 2012).
+Note in Figure 2 that the eastern and lower western areas of Buﬀalo are outside of
+any service area given our criteria. If Figure 2 is overlaid with racial distribution (as
+shown in Figure 1 above) or median household income (shown in Figure 3 below), a
+
+Figure 2. Current location of big grocery stores and their service areas.
+
+URBAN GEOGRAPHY
+
+913
+
+Figure 3. Median income with grocery store service area.
+
+correlation between low median income, a high portion of black residents, and exclusion from supermarket service areas is clearly evident.
+With respect to the pattern that is becoming visible here, it must further be noted
+that there are limitations to using a physical distance as a measure of accessibility to
+supermarkets. While the Euclidian or Cartesian distances shown in Figures 2 and 3 are
+measured “as the crow ﬂies,” actual people travel over the street network. The maps
+shown in Figures 2 and 3 make travel seem shorter than it may actually be in terms of
+the time and distance that it takes people to traverse the street network. For this and
+other reasons Kwan (2002) has suggested that the accessibility experiences of individuals are more complicated than what can be represented by conventional accessibility
+maps showing physical distance. Moreover, Lambert (2002) highlights the extent to
+which many lower income urban residents rely on public transit, which further
+
+914
+
+J.-K. JUNG AND C. ANDERSON
+
+complicates questions of travel time and accessibility. There is often a spatial mismatch
+(Kaplan, Wheeler, & Holloway, 2009; Wilson, 1987) between where people live and
+work in urban areas, and uneven public transit can make it very diﬃcult for people
+without access to private transportation to bridge this mismatch within daily life.
+Investigative work by Epstein and Watson (2006) indeed conﬁrms that many lowincome residents in Buﬀalo do not own or have access to cars, and must therefore rely
+in part or in full on public transit if they want to access the lower cost and greater
+variety of food available at the supermarkets located in areas of the city that are distant
+from where they live. In addition to absolute space, the relational space and temporal
+distance of public transportation usage in Buﬀalo must therefore be taken into consideration before any map or analysis of food access there can be adequate.14
+Figure 4 displays the public bus system in Buﬀalo, operated by the Niagara Frontier
+Transportation Authority (NFTA) Metro (www.nfta.com). At ﬁrst glance, most areas in
+Buﬀalo appear to be well served.
+However, the reality that Buﬀalo’s East Side residents experience again diﬀers from
+what might be assumed based on the map. Figure 5 shows the potential bus routes that
+the East Side residents could take to go to either of the nearest supermarkets. These are
+not randomly selected routes, but are literally the only available options for the East
+Side residents to access the supermarkets. As the map shows, each store is accessible
+only by a single public bus route (NFTA selected bus routes 4 or 18). Neither bus line,
+however, travels directly to Buﬀalo’s East Side. In addition to the disproportionate
+absolute distance demonstrated in the buﬀer maps above, here it also appears that
+access to supermarkets via public transit is more restricted for people who live in
+Buﬀalo’s East Side even though they are among the people who rely on public transit
+most to meet their needs. Strikingly, on a recent revisit to these sights to conﬁrm our
+interpretation of the potential transit routes here, there were empty grocery carts—
+presumably used by people who were hauling their load of groceries right up to the
+door of the buses—visible at the edges of bus stops blocks away from the supermarkets
+(Photo image in Figure 5).15
+Seeking a form of critical geovisualization that would further convey some of these
+additional relational and temporal elements and better contextualize the situation that
+Buﬀalo’s East Side residents experience on a regular basis, we created a cartogram. A
+cartogram distorts the size of geographic areas based on a particular attribute value
+associated with that area in order to intentionally make a particular characteristic of the
+location more explicit (Dorling, 2012). Areas on a cartogram map are proportional not
+to physical area on the ground but instead to other variables, creating a potentially
+dramatic depiction of the distribution of data.16 We decided to use the shortest travel
+time from residents’ home locations to the closest supermarket via bus as the attribute
+value in order to show additional dimensions of food accessibility and mobility,
+ostensibly capturing something of people’s actual everyday experiences in a more
+socially engaged and critical manner. There are two key steps in calculating values for
+the cartogram. First, we calculated bus travel time for every bus stop–grocery store pair
+based upon our equation, explained in detail below. Then, for each census tract in
+Buﬀalo, we took the mean value across every bus stop–grocery store pair that originated
+in that tract. This value—the shortest bus travel time to the nearest grocery store—was
+then assigned to each census tract to create the cartogram.
+
+URBAN GEOGRAPHY
+
+915
+
+Figure 4. Public bus network.
+
+The software we used for creating this cartogram is called Scape Toad and it uses a
+diﬀusion-based algorithm (Gastner & Newman, 2004; Hennig, 2011) (http://scapetoad.
+choros.ch/index.php). The diﬀusion-based method produces density-equalizing maps
+that are independent from the map coordinate systems with no overlapping regions.
+Scape Toad places a regular grid over all layers, and computes the density for each gridpoint based on user-deﬁned attributes. This program oﬀers the capability to preserve
+aspects of the topology of the space through the transformation process. The topography of the space is transformed, however the spatial relationships (e.g. connectivity,
+adjacency) are preserved. In our case, the census tracts remain deﬁned in the cartogram.
+For the key variable of our cartogram, four datasets were used to calculate total travel
+time via bus from each census tract to the nearest grocery stores: census tracts (polygons), grocery stores (points), bus stops (points), and bus network (polylines). We also
+
+916
+
+J.-K. JUNG AND C. ANDERSON
+
+Figure 5. Bus routes to grocery stores from Buﬀalo East Side.
+
+considered factors including bus stopping time at each bus stop as well as average
+waiting time at the bus stop, and included these in the equation. Considering all these
+factors, we developed the following initial equation to measure total travel time via bus:
+Total Travel Time via Bus ðMinutesÞ ¼ Bus Traveling Time þ ð# of Bus Stops  Bus
+Stopping ðDwellingÞ Time at Each Bus StopÞ
+þ ð# of Potential Bus Route Change
+ Average Bus Waiting TimeÞ
+In calculating bus travel time, the NFTA bus network dataset has attributes of
+“speed” and “distance” for each road segment, so we can calculate bus travel distance
+
+URBAN GEOGRAPHY
+
+917
+
+by time once we assign the origin and destination of the trip and measure the traveling
+distance between the two. We assigned the origin features as the closest bus stops from
+each census tract centroid, and then assigned the destination as the bus stop closest to
+the grocery store nearest to the points of origin. There are 79 census tracts in Buﬀalo, so
+we identiﬁed and measured the 79 shortest routes from the centroid of census tracts
+(origin features) to the closest grocery stores, and individually calculated the shortest
+total travel time to the closest grocery store via bus for these shortest routes.
+Regarding bus stopping time, we assumed that a bus stops for 30 seconds at each
+stop.17 We also measured an average bus waiting time by calculating the average
+interval between buses based on the NFTA bus schedule. The average interval between
+buses for the daytime commute was roughly 28, 43, and 52 minutes on Monday–Friday,
+Saturday, and Sunday, respectively. Once bus stopping and waiting time are included,
+total bus travel time increases considerably. The burden is also compounded for transit
+users who must transfer to a diﬀerent route, waiting up to the additional 28, 43, and
+52 minutes for each transfer. Accounting for all of this, our initial equation could be
+modiﬁed as follows for the weekday daytime trip:
+Total Travel Time via Bus ðMinutesÞ ¼ Bus Travel Time þ ð# of Bus Stops  0:5Þ
+þ ð# of Potential Bus Route Change  28Þ
+Based on this equation, we calculated total travel time from each origin bus stop to
+each destination supermarket bus stop by aggregating the bus travel time of each bus
+network segment, counting the number of bus stops along the route(s), factoring in the
+accompanying bus stopping time, and accounting for necessary transfers to diﬀerent
+route(s). The resulting total bus travel time was then used as a user-deﬁned attribute
+variable to create a cartogram (see Figure 6). Figure 6 shows the results of our network
+analysis. The travel time shown here is the average weekday daytime travel time. Total
+travel time will be greater during the weekend and weekday evenings. For instance, the
+average weekday evening waiting time for Route 4 and Route 18 is 60 minutes compared to 28 minutes in weekday daytime. Based on the NFTA bus schedule, we know
+that the waiting time during the weekend is much longer than weekdays as well.
+The cartogram on the right represents distance by travel time, here shown in direct
+comparison to a map of census tracts in absolute space on the left. The areas that are
+more inﬂated in the cartogram, for instance, census tract “A” on the right in comparison to the census tract “a” on the left map, indicate areas of more time-intensive—and
+therefore more limited—accessibility to the supermarkets. We can see the opposite for
+the census tracts “b” and “B” where the cartogram visualization shows the compressed
+appearance indicates less time-intensive—and therefore easier—access to the stores.
+Parallel, the total travel time from each census tract to the nearest supermarket via
+public transit is represented by shading in the map on the left, with darker shading
+indicating greater travel time. For instance, the one was bus travel time for census tract
+“a” is over 1 hour where census tract “b” is less than 15 minutes. The diﬀering boundary
+lines between the census tract map and the transformed cartogram are clear and
+striking while the shading enumerates the diﬀerences.18 It could take as long as
+120 minutes for a round-trip to the closest supermarket via a bus from within the
+most darkly shaded areas including the Upper and Lower East Side areas.
+
+918
+
+J.-K. JUNG AND C. ANDERSON
+
+Figure 6. Comparison of cartogram and original census tracts.
+
+Discussion: What are we really seeing and showing here? Urban inequality
+in multiple registers
+By substituting a proportional projection of travel time for the absolute space of the
+census tract area, our cartogram begins to render the temporal space of accessibility in
+Buﬀalo in visual form. By the same stroke, this move further compels a series of broader
+social questions that might not have been surfaced as clearly by other cartographic
+forms. The pattern we have shown in Buﬀalo is one in which: (1) areas such as Buﬀalo’s
+East Side with a higher proportion of black and lower income residents have disproportionately limited accessibility to supermarkets, and (2) access to the greatest variety
+of foods (in this case, also synonymous with fresh, healthier foods) at aﬀordable prices
+in such areas is only readily available to people who have suﬃcient surplus time to
+spend in transit to distant supermarkets or who are able to pay the costs of private
+transportation in the form of automobile ownership or taxi fares. Any suﬃcient
+explanation of these patterns would now seem to require further contextualization in
+relation to multi-scalar processes, which are broadly social and collective rather than
+attributable to individual-level behaviors.
+We would also argue that the patterns here bear the hallmarks of what Cindi Katz
+(2004) calls “time-space expansion,” where particular groups of people must travel for
+longer durations and over greater distances in order to fulﬁll their daily needs in the
+wake of uneven investments and disinvestments, which result in the unequal restructuring of daily life for people in diﬀerent locations. In a critique of David Harvey
+(1989), who argues that the experience of compressed or reduced time–space horizons
+
+URBAN GEOGRAPHY
+
+919
+
+is a universal characteristic of modern capitalism (as with the jet-setting international
+business class or just-in-time systems of production), Katz argues that while people and
+institutions who are central to the accumulation and circulation of capital may indeed
+experience such compression, others—particularly the working class, the poor, people
+in subsistence economies, etc.—increasingly experience expanded time–space horizons
+as they are marooned in place in the aftermath of various forms of disinvestment and
+dispossession which have lubricated investment in other, now experienced by these
+populations as more temporally and experientially distant, locations. From the perspective of critical geovisualization, these theories of time–space expansion as well as time–
+space compression can be also “visualized” and folded into process of reﬂectively
+creating the visual.
+In Buﬀalo, the time–space expansion we have shown can further be understood in
+relation to multiple layers of investment and disinvestment in neighborhoods by race
+and income, made manifest in everyday life in multiple ways to lasting economic, social,
+and bodily eﬀect. Seen here are contours of an interconnected range of collective
+conditions under which people struggle to maintain an ordinary existence in Buﬀalo’s
+East Side and other urban locations across the United States—housing, credit, and labor
+markets that are known to punish residents of low-income and nonwhite areas disproportionately. For example, recent work by Squires (2007) and Squires and Kubrin
+(2005) shows how neighborhoods where poor people of color live are eﬀectively
+penalized by markets in a number of ways including lower, slower property appreciation rates. This stiﬂes everything from property to labor markets as private investment
+—in supermarkets or whatever else—is perpetually under-rewarded and repelled. These
+localized market processes are further complicated within the context of the welldocumented and decades-long retraction of public commitments to ensure, let alone
+invest in, equitable access to food and transportation as well as employment, health
+care, education, and other sectors necessary to minimal standards of living.19 Such
+disinvestments stretch the resiliency of already vulnerable people closer to a breaking
+point and work to (re)produce categories of race and class at a material-physiological
+level that is just recently being fully understood.20 While these issues are not unique to
+residents in cities, in the case of our analysis they are clearly compounded given the
+particular contexts of disinvestment and segregation concentrated in the urban space of
+Buﬀalo.
+Once all of these critical dimensions are surfaced and brought into the conversation,
+it is possible to push our analysis of the strengths and limitations of the methods we
+have shown here yet one ﬁnal step further. Indeed, even the way in which we have just
+framed the situation in Buﬀalo still plays all too easily into a certain narrative—one
+perhaps too common in critical theory—that emphasizes how bad things are at the
+expense of any serious attention to the real qualities of the lives that nonetheless persist
+and sometimes even thrive in the contexts that are proclaimed to be so grim. This
+eﬀectively negative emphasis only on what is broken ultimately still ﬁts hand in glove
+with those discourses that would deﬁne urban poverty as a situation of pure lack and
+deprivation therefore amenable to all manner of (neo?)liberal interventions hinging on
+imaginaries of recuperation or improvement of people who are presumed wasted or
+pathological and spaces that are presumed disorderly and underdeveloped. In other
+words, while compiling maps and lists of injustices can be an important step toward
+
+920
+
+J.-K. JUNG AND C. ANDERSON
+
+social transformation, left to themselves these things can also simply serve to further
+inequalities such as those we have identiﬁed by reproducing these discourses of lack.21
+So we would like instead to conclude by emphasizing that what we are ultimately seeing
+here is just as much a story of resilient people who are working harder and spending
+more time than their aﬄuent white counterparts to achieve the same standard of living
+in the midst of the structural conditions described above. Rather than a narrative of lack
+and deprivation, this is one of a very real if cruel kind of abundance that forecloses the
+usual urban “culture of poverty” narrative and turns it on its head.
+In sum, what we have oﬀered here is a limited and somewhat speculative inventory
+that would clearly require additional qualitative and theoretical work to fully ﬂesh out.
+And that is precisely the point. To restate the overarching argument, critical geovisualization can open up extremely compelling, far reaching, and socially engaged analyses
+if employed as an eﬀectively qualitative—that is, partial and aﬀective—part of a broader
+conversation and embedded within modes of spatial analysis, which deliberately strive
+to surface and supplement what the maps themselves can represent. Situated in this
+context, particular forms of geovisualization such as the cartogram we have presented
+can also help open up conversations about qualitative experiences or discursively
+invested understandings of urban poverty and inequality, and even compel consideration of the socially subjective or ambiguous character of geographically visualized data
+itself.
+From a few geovisualizations, an analysis potentially ranging in scale from molecular
+biology to global political economy can be opened up. A set of urban conditions that
+may have been interpreted as individual-level issues in a singular absolute space can be
+understood as collective, contextual, and contingent on a whole range of broadly social
+relations, implying by extension that potential solutions to these issues would likely
+need to be broadly collective rather than limited to individual-level or absolute spatial
+interventions. Put more bluntly, given what we have shown, it is unlikely that a solution
+such as, for example, simply plunking down fresh produce in the middle of otherwise
+unaltered social relations would adequately mitigate against the kind of spatial-social
+inequality experienced by residents in places like Buﬀalo’s East Side. The ability to
+surface and represent these kinds of questions and analyses as well as articulate the
+diﬀerent potential solutions that diﬀering interpretations of these analyses might further
+suggest is precisely where geovisualization has its greatest critical potential.
+
+Conclusion
+This limited case study has aimed to convey how critical geovisualization can be socially
+and theoretically engaged to show the production and reproduction—both in urban
+space and in ideas about and representations about it—of spatialized inequality as it
+takes place in Buﬀalo and places like it. We have worked to highlight potential synergies
+between numerous strands of “critical” work within and beyond the cartographic
+literature and to highlight the kind of complex, multi-scalar analysis that could be
+pursued with increasing ease amidst the proliferation geovisual technologies if driven
+by the underlying motivation to do so. Critical geovisualization can clearly be readily
+used to show social needs and identify urban areas that are underserved and marginalized according to all sorts of measures. Moreover and as we have attempted to
+
+URBAN GEOGRAPHY
+
+921
+
+demonstrate, truly critical, socially engaged visualization can further help reveal, contextualize, and even provide situated aﬀective representations of complex social issues
+such as urban inequality in a manner that also pushes us to think beyond dominant
+understandings and absolute representations of such issues, moving the conversation
+toward more comprehensive analyses and solutions. The use of critical cartography for
+such purposes—as the starting point for broader analytical and transformational praxis
+rather than a ﬁnal outcome of inquiry in and of itself—would indeed be in keeping with
+the radical spirit of what initiatives like the DGEI set out to accomplish. Here the map
+is not the analysis or the end point, but a means to visualize data and theories and open
+up broader conversations about the collective character of the social issues that maps
+can begin to make evident.
+
+Notes
+1. This paper is both a product and an example of such a conversation. One author is an
+urban GIScientist and the other an urban ethnographer and social geographer. As will
+become clear, we attempt to combine often incongruous perspectives from critical GIS
+analysis and critical urban and social theory, leading to an exchange that we believe is all
+the more productive because the tensions between these approaches demand attention to
+questions that might otherwise never be asked. Brown and Knopp (2008) provided a
+kindred and compelling example of this kind of sometimes contradictory and therefore
+all the more generative cross-epistemological conversation. While we hope this will be of
+interest to established practitioners and theorists of critical geovisualization, we also hope
+it will be of particular use to students, non-geographers, and others who are considering
+the epistemological and methodological dimensions and potential socio-theoretical
+engagements with critical urban pedagogy made possible through the combination of
+these methods.
+2. The panel entitled, “How we walk the talk: Action research and activist scholarship; past,
+present, and future—Expeditions and Institutes: Legacies and Futures,” was organized by
+Amanda Huron and Christian Anderson at the 2013 annual meeting of the Association of
+American Geographers in Los Angeles.
+3. The Detroit Geographical Expedition and Institute (DGEI) was a partnership between
+faculty at Wayne State University, Michigan State University, The University of
+Michigan, and residents—primarily youth of color—in a disinvested neighborhood of
+Detroit in the late 1960s and early 1970s. Among other activities, participants produced a
+series of community maps, which showed things ranging from the locations where
+children were fatally hit by cars to where school district boundaries should be placed
+for maximal equity. The DGEI experience was foundational to the formation of radical
+geography and critical cartography. See Detroit Geographical Expedition and Institute
+(1970, 1971), Dorling (1998), Heyman (2007), Horvath (1971), Monmonier and
+Crampton (2002), and St. Martin (1995), for more background.
+4. Here we deliberately echo Stuart Hall’s (1986) argument for the need to “go on theorizing” not because of any commitment to a particular theoretical dogma or for the sake of
+theory in and of itself but precisely because relentless questioning and theorization are
+necessary in order to understand and transform complex, unjust sociocultural formations
+in the present.
+5. The terms in scare quotes here refer to Donna Haraway’s (1988) concept of “situated
+knowledge” and Cindi Katz’s (1996) concept of “minor theory.” Both Haraway and Katz
+draw on currents in feminism and post-structuralism to argue for engagements with
+theory that are deliberately modest, potentially destabilizing rather than universalizing,
+and aware of the subjective partiality of all knowledge. Both argue in diﬀerent ways that
+
+922
+
+J.-K. JUNG AND C. ANDERSON
+
+the strongest forms of analysis emerge through intersubjective connection of diﬀerent
+partial, invested positions and not through the pursuit of “objectivity” or totalizing
+mastery.
+6. And social theory itself is, as Haraway (1988) foundationally argued, always partial in its
+own distinct and limiting ways, which are closely linked to matters of vision and
+perspective.
+7. Again, we are using “relational” as shorthand for how social processes in any given space
+are always also embedded in other processes that extend to other spaces. “Processual”
+meanwhile describes an approach that eschews ﬁxity essentialism and tries instead
+represent an unstable world in ﬂux and therefore contingent and open to change
+(Kitchin & Dodge, 2007; Kitchin et al., 2013).
+8. We are also aware of the politics of “data” being mapped, and acknowledge that all data is
+an outcome of contingent and contesting social practices that are framed with speciﬁc
+understanding of the world (Dalton & Thatcher, 2014).
+9. Census categories are notoriously imprecise and culturally fraught. Currently, the Census
+considers “Hispanic” to be an ethnic rather than a racial category, and the Hispanic origin
+question is asked in a section of the Census form that is separate from the section about
+race. For this reason, we included both racial and ethnic categories together in our map.
+10. By Buﬀalo’s East Side, we are referring to those areas lying east of Main Street and north
+of South Buﬀalo (see the gray background areas in Figure 1).
+11. Data are from United States Census Bureau Poverty Thresholds (https://www.census.gov/
+hhes/www/poverty/data/threshld/).
+12. For example, Congressman, former vice-presidential candidate, and speaker of the House
+Paul Ryan said in an in a recent interview, “We have got this tailspin of culture, in our
+inner cities in particular, of men not working and just generations of men not even
+thinking about working or learning the value and the culture of work, and so there is a
+real culture problem here that has to be dealt with” (quoted in Blow, 2014). Though our
+analysis suggests structural explanations for and narratives about poverty that are wholly
+at odds with this statement, there is nothing inherent in the maps we have presented so
+far that would prevent them from being marshaled to support arguments, such as the one
+Ryan made, that the poor are poor because of their own unwillingness to work as hard as
+the aﬄuent ostensibly did en route to their prosperity.
+13. Two Tops Friendly Markets are not located within the city boundary of Buﬀalo, but are
+included in analysis because of their proximity to the city.
+14. In opposition to absolute understandings of space as a grid or container, relational space
+here refers to space understood as being constituted in and through the relations between
+objects—in this case bus routes, grocery stores, and residential patterns.
+15. There are echoes hear of the story of Cynthia Wiggins, who worked at a suburban mall
+that intentionally sited stops for the buses arriving from poor inner-Buﬀalo neighborhoods oﬀ the property in a spot where passengers of those routes would need to cross a
+busy road and a parking lot before they could get to the shopping complex. A young
+single mother of color, Wiggins was crushed and killed by a dump truck while trying to
+cross that road on the way to her job, causing a public outcry and accusations of
+institutional racism that still linger (Nieves, 1996).
+16. As such, the creation of a cartogram requires particular representational thoughtfulness
+but can also provide substantial descriptive and analytical beneﬁts (Muehrcke, 1981).
+17. A somewhat subjective methodological choice, as further studies are needed to verify the
+precise accuracy of this number.
+18. And these ﬁgures do not even account for the likely increase in private automobile usage
+from aﬄuent areas, which would further reduce the travel time from those areas
+dramatically.
+19. This is the very deﬁnition of “social exclusion,” a term used to describe material
+deprivation as well as the structurally produced lack of opportunity to participate in
+basic and necessary activities of everyday life (Miller, 2007; Warrington, 2005).
+
+URBAN GEOGRAPHY
+
+923
+
+20. In relation to the psychology and physiology of stress, Mullainathan and Shaﬁr (2013), for
+example, employ the metaphor of “bandwidth” to show how scarcity itself may perpetuate poverty as cognitive functions necessary for educational achievement, strategic
+decision-making, and so forth can be severely impeded where increased demands associated with meeting basic needs within scarcity conditions [constantly having to choose
+whether to pay more than one can aﬀord or ride a bus for an extra hour in order to get
+food would be a prime example] overridingly tax the brain. In relation to race, Guthman
+(2014) argues that biological diﬀerences between races can be understood as eﬀects rather
+than merely causes of racism because material and environmental inequalities such as
+those that we have described, among others, have unequal impacts on diﬀerent bodies,
+exposing some—particularly people of color—to epigenetic harm and premature death.
+21. Here, we are echoing and applying arguments that have been made in a range of contexts,
+urban and otherwise, at the intersection between economics and discourse. These include
+asset-based (Kretzmann & McKnight, 1993; http://www.abcdinstitute.org/), community
+economy (Gibson-Graham, 1996; http://www.communityeconomies.org/Home), and
+relational poverty (Lawson & Elwood, 2014; http://depts.washington.edu/relpov/)
+approaches.
+
+Disclosure statement
+No potential conﬂict of interest was reported by the authors.
+
+Acknowledgments
+We would like to thank Sarah Elwood for thoughtful and supportive comments that helped
+stimulate our ideas based on an earlier draft of this paper, and Andrew Maroko for guiding us
+through the landscape of cartogram software. We also extend our gratitude to the editor, Thomas
+Cooke, for sustained editorial assistance, feedback, and patience that helped us improve this
+article greatly. Of course we take full responsibility for any errors or issues in the content itself.
+
+References
+Aitken, Stuart, & Craine, Jim. (2009). Into the image and beyond: Aﬀective visual geographies
+and GIScience. In Meghan Cope & Sarah Elwood (Eds.), Qualitative GIS: A mixed methods
+approach (pp. 139–156). London: Sage Publications.
+Beaumont, J., Lang, Tim, Leather, S., & Mucklow, C. (1995, : Radlett, Heartfordshire). Report
+from the policy sub-group to the nutrition task force: Low income project team. Watford:
+Institute of Grocery Distribution.
+Berger, John. (1991). The uses of photography in about looking. New York, NY: Vintage.
+Blow, Charles M. (2014, March 21). Paul Ryan, culture and poverty. The New York Times.
+Bodenhamer, David J., Corrigan, John, & Harris, Trevor M. (2010). The spatial humanities: GIS
+and the future of humanities scholarship. Bloomington: Indiana University Press.
+Brown, Michael, & Knopp, Larry. (2008). Queering the map: The productive tensions of colliding
+epistemologies. Annals of the Association of American Geographers, 98(1), 40–58.
+Bunge, William. (1966). Theoretical geography. Lund Studies in Geography Series C, 1, 1–285.
+Clarke, Graham, Eyre, Heather, & Guy, Cliﬀ. (2002). Deriving indicators of access to food retail
+provision in British cities: Studies of Cardiﬀ, Leeds And Bradford. Urban Studies, 39(11),
+2041–2060.
+Cope, Meghan, & Elwood, Sarah. (2009). Qualitative GIS: A mixed methods approach. London:
+Sage Publications.
+Cope, Meghan, & Latcham, Frank. (2009). Narratives of decline: Race, poverty, and youth in the
+context of postindustrial urban angst. The Professional Geographer, 61(2), 150–163.
+
+924
+
+J.-K. JUNG AND C. ANDERSON
+
+Coulis, Michael J. (2010). Journeys beyond the neatline: Expanding the boundaries of cartography.
+Edmonton: University of Alberta.
+Crampton, Jeremy. (2001). Maps as social constructions: Power, communication and visualization. Progress in Human Geography, 25(2), 235–252.
+Crampton, Jeremy, & Krygier, John B. (2006). An introduction to critical cartography. ACME:
+An International E-Journal for Critical Geographies, 4(1), 11–33.
+Dalton, Craig, & Thatcher, Jim. (2014). What does a critical data studies look like, and why do
+we care? Seven points for a critical approach to ‘big data’. Society & Space. Retrieved October
+10, 2015, from, http://societyandspace.com/material/commentaries/craig-dalton-and-jimthatcher-what-does-a-critical-data-studies-look-like-and-why-do-we-care-seven-points-for-acritical-approach-to-big-data/
+Darden, Joe T., & Wyly, Elvin. (2010). Cartographic editorial-mapping the racial/ethnic topography of subprime inequality in Urban America. Urban Geography, 31(4), 425–433.
+Detroit Geographical Expedition and Institute. (1970). Field Notes No. 2: A Report to the Parents
+of Detroit on School Decentralization. Detroit: DGEI.
+Detroit Geographical Expedition and Institute. (1971). Field notes No. 3: The geography of
+children. Detroit: DGEI.
+Dorling, Daneil. (2012). The visualization of spatial social structure. Chichester, West Sussex:
+John Wiley & Sons.
+Dorling, Daniel. (1998). Human cartography: When it is good to map. Environment and
+Planning A, 30(2), 277–288.
+Eisenhauer, Elizabeth. (2001). In poor health: Supermarket redlining and urban nutrition.
+GeoJournal, 53(2), 125–133.
+Elwood, Sarah. (2014). Straddling the fence: Critical GIS and the geoweb. Progress in Human
+Geography, (Virtual Issue). Retrieved from http://phg.sagepub.com/site/e-Specials/PHG_espe
+cial_intro.pdf
+Elwood, Sarah, & Leszczynski, Agnieszka. (2013). New spatial media, new knowledge politics.
+Transactions of the Institute of British Geographers, 38(4), 544–559.
+Elwood, Sarah, Schuurman, Nadine, & Wilson, Matthew. (2011). Critical GIS. In Timothy
+Nyerges, Helen Couclelis, & Robert B. McMaster (Eds.), The SAGE handbook of GIS and
+Society (pp. 87–106). London: Sage Publications.
+Epstein, Jonathan, & Watson, Rod. (2006, June 18). Buﬀalo news special report: The high cost of
+being poor (Day 1). Buﬀalo News.
+Gastner, Michael T., & Newman, M. E. J. (2004). Diﬀusion-based method for producing densityequalizing maps. Proceedings of the National Academy of Sciences of the United States of
+America, 101(20), 7499–7504.
+Gibson-Graham, J. K. (1996). The end of capitalism (As we knew it): A feminist critique of political
+economy. Cambridge, MA: Blackwell.
+Goldman, Mark. (1990). City On The Lake. Buﬀalo, NY: Prometheus Books.
+Guthman, Julie. (2014). Doing justice to bodies? Reﬂections on food justice, race, and biology.
+Antipode, 46(5), 1153–1171.
+Hall, Stuart. (1986). The problem of ideology-marxism without guarantees. Journal of
+Communication Inquiry, 10(2), 28–44.
+Handy, Susan L., & Clifton, Kelly J. (2000). Evaluating neighborhood accessibility: Issues and
+methods using geographic information systems (Report SWUTC/00/16702-1). Southwest
+Region University Transportation Center, Center for Transportation Research, The
+University of Texas at Austin.
+Haraway, Donna. (1988). Situated knowledges: The science question in feminism and the
+privilege of partial perspective. Feminist Studies, 14(3), 575–599.
+Harvey, David. (1989). The condition of post-modernity. Oxford: Basil Blackwell.
+Harvey, Francis, Kwan, Mei-Po, & Pavlovskaya, Marianna E. (2005). Introduction: Critical GIS.
+Cartographica: The International Journal for Geographic Information and Geovisualization, 40
+(4), 1–4.
+
+URBAN GEOGRAPHY
+
+925
+
+Hennig, Benjamin D. (2011). Rediscovering the world: Gridded cartograms of human and physical
+space. Sheﬃeld: Department of Geography, University of Sheﬃeld.
+Heyman, Rich. (2007). ‘Who’s going to man the factories and be the sexual slaves if we all get
+PhDs?’ Democratizing knowledge production, pedagogy, and the detroit geographical expedition and institute. Antipode, 39(1), 99–120.
+Horvath, Ronald. (1971). The ‘Detroit geographical expedition and institute’ experience.
+Antipode, 3(1), 73–85.
+Jones, Phill, & Evans, James. (2012). The spatial transcript: Analysing mobilities through
+qualitative GIS. Area, 44(1), 92–99.
+Kaplan, David, Wheeler, James, & Holloway, Steven. (2009). Urban geography. Hoboken, NJ:
+Wiley.
+Katz, Cindi. (1996). Towards minor theory. Environment and Planning D: Society and Space, 14
+(4), 487–499.
+Katz, Cindi. (2004). Growing up global: Economic restructuring and children’s everyday lives.
+Minneapolis, MN: University of Minnesota.
+Kitchin, Rob, & Dodge, Martin. (2007). Rethinking maps. Progress in Human Geography, 31(3),
+331–344.
+Kitchin, Rob, Gleeson, Justin, & Dodge, Martin. (2013). Unfolding mapping practices: A new
+epistemology for cartography. Transactions of the Institute of British Geographers, 38(3), 480–
+496.
+Knigge, LaDona, & Cope, Meghan. (2009). Grounded visualization and scale: A recursive
+analysis of community spaces. In Meghan Cope & Sarah Elwood (Eds.), Qualitative GIS: A
+mixed methods approach (pp. 95–114). London: Sage Publications.
+Kretzmann, John P., & McKnight, John L. (1993). Building Communities from the inside out: A
+path toward ﬁnding and mobilizing a community’s assets. Evanston, IL: Institute for Policy
+Research.
+Kwan, Mei-Po. (2002). Feminist visualisation: Re-envisioning GIS as a method in feminist
+geographic research. Annals of the Association of American Geographers, 92(4), 645–661.
+Kwan, Mei-Po. (2004). Beyond diﬀerence: From canonical geography to hybrid geographies.
+Annals of the Association of American Geographers, 94(4), 756–763.
+Kwan, Mei-Po. (2007). Aﬀecting Geospatial Technologies: Toward a feminist politics of emotion.
+The Professional Geographer, 59(1), 22–34.
+Lambert, David. (2002). Geography, ‘race’ and education: Further perspectives. Geography, 87(4),
+297–304.
+Lawson, Vicky, & Elwood, Sarah. (2014). Encountering poverty: Space, class, and poverty
+politics. Antipode, 46(1), 209–228.
+Lee, Gyoungju, & Lim, Hyunwoo. (2009). A spatial statistical approach to identifying areas with
+poor access to grocery foods in the city of Buﬀalo, New York. Urban Studies, 46(7), 1299–
+1315.
+Leszczynski, Agnieszka. (2009). Quantitative limits to qualitative engagements: GIS, its critics,
+and the philosophical divide. The Professional Geographer, 61(3), 350–365.
+Lin, Wen. (2013). Digitizing the dragon head, geo-coding the urban landscape: GIS and the
+transformation of China’s urban governance. Urban Geography, 34(7), 901–922.
+McEntee, Jesse, & Agyeman, Jullian. (2010). Towards the development of a GIS method for
+identifying rural food deserts: Geographic access in Vermont, USA. Applied Geography, 30(1),
+165–176.
+Metcalf, Sarah, & Widener, Michael. (2011). Growing buﬀalo’s capacity for local food: A systems
+framework for sustainable agriculture. Applied Geography, 31(4), 1242–1251.
+Miller, Harvey J. (2007). Social exclusion in space and time. In Kay W. Axhausen (Ed.), Moving
+through nets: The social and physical aspects of travel (pp. 353–380). Oxford: Elsevier.
+Monmonier, Mark, & Crampton, Jeremy W. (2002). Maps, politics, and history. Environment
+and Planning D: Society and Space, 20(6), 637–646.
+Muehrcke, Phillip C. (1981). Maps in geography. Cartographica: The International Journal for
+Geographic Information and Geovisualization, 18(2), 1–41.
+
+926
+
+J.-K. JUNG AND C. ANDERSON
+
+Mullainathan, Sendhil, & Shaﬁr, Eldar. (2013). Bandwidth: Why having too little means so much.
+New York, NY: Times Books.
+Nieves, Evelyn. (1996). In the wake of a teen-ager’s death, a cloud of racism, then a lawsuit. The
+New York Times. Retrieved October 10, 2015, from http://www.nytimes.com/1996/12/19/
+nyregion/in-the-wake-of-a-teen-ager-s-death-a-cloud-of-racism-then-a-lawsuit.html
+Pavlovskaya, Marianna E. (2006). Theorizing with GIS: A tool for critical geographies?
+Environment and Planning A, 38(11), 2003–2020.
+Pickles, John. (1995). Ground truth: The social implications of geographic information systems.
+New York, NY: The Guilford.
+Schuurman, Nadine. (1999). Critical GIS: Theorizing an emerging science. Cartographica, 36(4),
+1–99 (Monograph 53).
+Schuurman, Nadine. (2002). Reconciling social constructivism and realism in GIS. ACME: An
+International E-Journal for Critical Geographies, 1(1), 73–90.
+Squires, Gregory. (2007). Demobilization of the individualistic bias: Housing market discrimination as a contributor to labor market and economic inequality. Annals of the American
+Academy of Political and Social Science, 609, 200–214.
+Squires, Gregory, & Kubrin, Charis E. (2005). Privileged places: Race, uneven development and
+the geography of opportunity in Urban America. Urban Studies, 42(1), 47–68.
+St. Martin, Kevin (1995). Changing borders, changing cartography: Possibilities for intervening
+in the new world order. In Antonio Callari, Stephen Cullenberg, & Carole Biewener (Eds.),
+Marxism in the postmodern age: Confronting the new world order (pp. 459–468). New York,
+NY: The Guilford Press.
+US Census Bureau. (2010). American Factﬁnder 2 of Buﬀalo, NY. Retrieved April 18, 2015, from
+http://factﬁnder2.census.gov/faces/nav/jsf/pages/community_facts.xhtml
+Ver Ploeg, Michele, Breneman, Vince, Dutko, Paula, Williams, Ryan, Snyder, Samantha, Dicken,
+Chris, & Kaufman, Phil. (2012). Access to aﬀordable and nutritious food: Updated estimates of
+distance to supermarkets using 2010 data. ERR-12. Washington, DC: U.S. Department of
+Agriculture, Economic Research Service.
+Warrington, Molly. (2005). Mirage in the desert? Access to educational opportunities in an area
+of social exclusion. Antipode, 37(4), 796–816.
+Whelan, Amanda, Wrigley, Neil, Warm, Daneil, & Cannings, Elizabeth. (2002). Life in a ‘Food
+Desert’. Urban Studies, 39(11), 2083–2100.
+Wilson, William J. (1987). The truly disadvantaged: The inner city, the underclass, and public
+policy. Chicago: University of Chicago Press.
+Wrigley, Neil, Warm, Daniel, & Margetts, Barrie. (2003). Deprivation, diet, and food-retail
+access: Findings from the Leeds ‘food deserts’ study. Environment and Planning A, 35(1),
+151–188.
+
+

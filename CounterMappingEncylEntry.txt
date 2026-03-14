@@ -1,0 +1,412 @@
+From Mason-Deese, L., 2020. Countermapping. In: Kobayashi, A. (Ed.), International
+Encyclopedia of Human Geography, 2nd edition. vol. 2, Elsevier, pp. 423–432.
+https://dx.doi.org/10.1016/B978-0-08-102295-5.10527-X
+ISBN: 9780081022955
+
+Countermapping
+Liz Mason-Deese, Manassas, VA, United States
+© 2020 Elsevier Ltd. All rights reserved.
+This article is a revision of the previous edition article by R. Rundstrom, volume 2, pp 314–318, © 2009 Elsevier Ltd.
+
+Glossary
+Psychogeography The study and exploration of the effects of the geographic environment on the emotions, thought, and
+behaviors of individuals.
+
+If cartography is a tool of state power, as has long been shown by the ﬁeld of critical cartography, then maps are also implicated in
+struggles over or against power. Counter-cartography starts from this insightdrecognizing that maps have power and do work on
+the worlddin order to propose alternative types and uses of maps. This critique of cartography shows that modern cartography
+developed in parallel with the nation-state and played a fundamental role in its founding, helping to cement state power through
+drawing ﬁxed borders, and promoting national identity. Cartography was an essential tool in colonial conquest and the imposition
+of capitalist property relations around the world. In this process, cartography relies on the scientiﬁc authority of its expertise, backed
+by the state’s capacity to use force to impose violently the map’s borders and property lines on the Earth’s surface. Yet ofﬁcial maps
+have also been challenged, and individuals and communities without state power or without ofﬁcially recognized expertise have
+long made their own maps as ways of orienting themselves in the world, ﬁghting back against state power, and creating new spatialities. Indigenous and community organizations have used mapping for decades to make claims for resources and land, to demonstrate spatial injustice and inequality, and to promote their own vision of their territories. These groups and other social movements
+also use mapping processes as ways to build their collective power and to propose other worlds. The diverse and varied tradition of
+making maps that challenge the ofﬁcial state maps, that defy the conventions of Western cartography, or that provide alternative
+spatial visions is what has come to be known as counter-mapping.
+Counter-maps can take many forms: protests of existing maps (for example, showing people, places, or features that are excluded
+from ofﬁcial maps), representations of spatial injustices or inequalities, or proposals for new ways of organizing spatial relations.
+The origins of contemporary counter-mapping are found with the Indigenous mapping that began in Canada in the 1970s as Indigenous communities started mapping where and how they occupied and utilized land. This mapping allowed them to make legal
+claims to territory and resources that were being encroached upon by the state and corporations. The practice quickly spread to
+countries around the world and has proved to be an important tool for Indigenous nations claiming territorial rights. Other marginalized communities have also used counter-mapping to intervene in political struggles and build collective power. Protest and
+community mapping serve to identify the exclusions and biases of ofﬁcial maps and instead produce their own maps with data
+collected or veriﬁed by the community itself. Art mapping and other experimental forms of mapping, however, have challenged
+the very deﬁnitions of what is considered mappable data, adding emotions, subjective experiences, and political positions to the
+very map design itself. More recently, different autonomous social movements have engaged in counter-mapping as a form of developing and circulating a shared analysis, and of directly creating new relationships and networks, building the movement’s power.
+What these different types of counter-mapping share is a political commitment to challenging the power effects of dominant cartography, to using mapping itself to upset power relations, and to questioning the assumptions, conventions, and authority of dominant cartography.
+
+Origins and Lineages
+The term “counter-mapping” was introduced in 1995 in work on forest mapping in Kalimantan, Indonesia, by Nancy Peluso.
+Peluso examined the implementation of two types of forest mapping: one from above of state forest managers and international
+ﬁnancial institutions, and another from below of a network of local activists and NGOs. In the second case, the activists appropriated the techniques and manners of representation of state cartography, for example, using digital overlays on existing state maps, to
+legitimate claims that the Indigenous Dayak people had long been managing the forest space and to protect their rights against the
+colonial state. However, the practice of Indigenous communities creating their own maps in order to advance legal claims for territory and resources goes back to at least the 1970s. Starting in western and northern Canada, Indigenous communities produced land
+use and occupancy maps to demonstrate where and how they use land and other resources in order to legitimate their territorial
+claims in negotiations with the state. With early successes in this regard, Indigenous counter-mapping then spread to other regions
+of the world where the tool was taken up by various Indigenous struggles as part of their campaigns to protect their lands and ways
+of life. Recent calls to decolonize the map see counter-mapping as part of broader processes of reinvigorating and revaluing Indigenous language and culture through putting Indigenous place names on the map or attempting to map Indigenous spatialities.
+
+International Encyclopedia of Human Geography, 2nd edition, Volume 2
+
+https://doi.org/10.1016/B978-0-08-102295-5.10527-X
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+423
+
+424
+
+Countermapping
+
+There is also a parallel history of other communities using counter-mapping in struggles for social justice. Anti-racist struggles
+have used maps to show how environmental hazards are placed closer to communities of color or how those neighborhoods are
+more heavily policed. Displaying these data on a map often has the effect of making it appear more neutral and authoritative, adding
+legitimacy to community’s claims. Neighborhood groups have also used counter-mapping to negotiate redevelop plans with the
+local government or to ﬁght against gentriﬁcation or other unwanted changes to a neighborhood. Some of these experiences
+have evolved into more concerted efforts to counter-map communities in ways that challenge the forms and effects of dominant
+maps. For example, in the Parish Maps Project starting in the 1980s, over 2500 English parishes collectively mapped their own
+communities with very little help from outside NGOs or academic cartographers. Community counter-maps often take on very
+different forms, ignoring cartographic conventions to make maps that are more expressive of a community’s sense of itself, experimenting with mapping emotions and attachments to particular places, elements not included in ofﬁcial maps, and often not even
+considered to be of interest to more scientiﬁc mapping projects. Community counter-mapping projects seek to democratize
+mapmaking, involving community members not only in collecting data, but also in making the maps, thus using the maps as
+a way of building group cohesion and capacities.
+Protest maps are one type of counter-map. Speciﬁc communities have taken to protest mapping when they feel that the ofﬁcial
+maps have excluded them or made errors that affect them. Other groups have used maps along with the organization of speciﬁc
+protests: one of the ﬁrst notable examples of this was the detailed counter-map created for protesters of the Republican National
+Convention in New York City in 2004. Some protest maps use digital mapping technologies to provide protesters with resources
+in real-time. For example, the smartphone application Sukey, developed in the United Kingdom in early 2011, used tweets, texts,
+and GPS data to map protests and police responses in real-time to help protesters avoid being “kettled,” or surrounded and entrapped by security forces. Thus these protest maps serve an immediate purpose of aiding protesters or the maps themselves are a protest
+against a map that is soon as unjust.
+Counter-mapping has also been inﬂuenced by art mapping, psychogeography, and mental mapping. Map art emerged from
+Dadaist and Surrealist art in the period following World War I as artists began incorporating maps into their work through photomontage and other techniques as part of a broader process questioning representation, the state, and the dominant form of rationality. This art visually deconstructed the map, in quite literal terms, and projected new maps, with Le monde au temps des Surréalistes
+(The Surrealist map of the world, c. 1929) being one of the best known examples. Later, the Situationists, a group of artists/activists/
+intellectuals based in Paris from 1957 to 1972, would draw on early map art as they conducted what they termed dérives (drifts)
+through urban spaces in order to study the psychogeography of a city. Drifts were day-long collective wanderings around the
+city drawn by pulls and pushes of forces of attraction of the urban terrain, following the ﬂows and currents that traverse a city,
+allowed participants to develop knowledge about the city in a different way from state or transit maps. The subsequent maps,
+such as Guy Debord’s The Naked City map (1957), not only challenged the ofﬁcial maps of the state planners who were trying
+to modernize the city, but also offered different ideas about what counts as map data, claiming that these psychogeographies
+were just as important to map as the mostly quantitative data preferred by urban planners and academic geographers alike.
+At about the same time, mental maps were being pioneered by urban planner Kevin Lynch to study people’s perceptions of
+spaces. Residents would be asked to sketch maps according to their own memories based on a stylistic scheme Lynch devised to
+make the maps comparable, according to ﬁve basic elements. Making mental maps became an important research methodology
+for geographers, planners, and other social scientists interested in understanding how people perceive and navigate different spaces.
+Today practitioners continue to combine art, mapping, and activism in innovative ways. These different forms of art, mental, and
+psychogeographic mapping thus challenge the dominant maps of the state through their aesthetic sensibilities, their refusal of state
+cartographic conventions, and by drawing attention to the emotional and subjective side of mapping.
+Recent technological innovations have offered new opportunities, as well as presented new challenges, for counter-mapping.
+Geographic Information System (GIS) software and online platforms have lowered the barriers to learning basic mapmaking skills;
+geographic data can now be easily collected on one’s cell phone. Initially, there were many optimistic proclamations that this technology would radically democratize mapmaking, making it possible for anyone to make a map. This initial enthusiasm has since
+faded as it has become clear that the power of maps does not lie only in the technology. Meanwhile, work in critical and feminist GIS
+has critiqued the masculinist assumptions in GIS, its top-down “god eye’s” perspective, and its claims to neutrality and completeness, arguing instead that all knowledge is situated and partial. By way of contrast, feminist GIS brings connections, relations,
+emotions, and movement into GIS. These critiques also led to calls to make GIS more inclusive, involving marginalized communities in the mapping process, giving rise to what has become known as Public Participatory GIS (PPGIS); however, many of these
+efforts have ended up replicating the same hierarchies between experts and community members, or between professional cartographers and activists, especially when the mapping relies on specialized skills and knowledge, or access to equipment and software,
+that are not shared with the community at large. Ultimately, regardless of what technologies are used, counter-mapping is that
+which challenges dominant mapping conventions and the authority of the map, as well as the power relations inherent in
+them. In other words, it is all about the politics and the motivations of the maps.
+
+Indigenous Counter-Mapping
+In recent decades, Indigenous mapping has offered some of the most profound critiques of ofﬁcial state cartographydits form, its
+content, and its authoritydand created alternative maps as part of processes of Indigenous struggles for land and political rights.
+Beginning in the 1960s, Indigenous groups in northern and western Canada such as the Nisga’a, Dene, Cree, and Inuit began using
+mapping as part of their struggles for legal rights. As oil and gas started to be discovered in their territories, Indigenous leaders
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+Countermapping
+
+425
+
+realized their land and ways of life were under threat from the state and corporations. Thus they turned to mapping as a tool that
+would legitimate their territorial claims and appear authoritative and scientiﬁc in a court of law. The Canadian government was also
+motivated to settle disputes and quell political unrest and thus began funding land use and occupancy mapping projects. One of the
+ﬁrst of these projects led to the 1976 publication of the three-volume Inuit Land Use and Occupancy Project, the result of a study of
+Inuit land use in the Arctic that made novel use of map biographies. These map biographies combined techniques from applied
+anthropology and the mental maps movement in an attempt to map Indigenous spatial processes, with researchers asking Inuit
+participants to record the stories of their lives on maps, indicating all the places they had ever used for hunting, berry-picking,
+ﬁshing, camping, and so on. The maps were then used in negotiations with the Canadian government. The even more detailed
+Nunavut Atlas published in 1992 included dozens of maps of land-use intensity, travel routes, wildlife, archaeological information,
+and settlement boundaries. These maps played a key role in the legal cases and negotiations through which the Inuit were able to
+eventually achieve self-governance over the former Northwest Territories in 1999.
+After this victory, the practice of counter-mapping spread to other Indigenous groups in both the Global North and the Global
+South through Indigenous activist networks and later through more institutional channels. It was George Manuel, a Secwepemc
+from Canada, who, as president of the World Council of Indigenous Peoples from 1975 to 1981, traveled to Argentina, Chile, Guatemala, Nicaragua, Peru, and Sweden to promote the use of land use and occupancy maps to ﬁght land grabs. In 1992, at the United
+Nations Rio Summit, community-based mapping was identiﬁed as an important tool for research, community building, and planning. Projects soon started across Latin America, Africa, and Southeast Asia. Indigenous mapping cannot be separated from the
+political context in which it arose: intensifying Indigenous struggles against external and internal colonization. This countermapping had a clear political purpose: to demonstrate and legitimate Indigenous control of land in attempts to gain recognition
+and territorial sovereignty. Much of this Indigenous mapping was used for legal cases or in negotiations with the state. Thus one of
+the contradictions that this form of Indigenous mapping immediately confronted was the need to make maps that would appear
+just as scientiﬁc, just as accurate as ofﬁcial maps; in other words, to make themselves legible to the state. The Indigenous communities and their allies would argue that their maps were indeed more accurate than the state’s maps because they relied on people’s
+lived experiences and detailed, grounded knowledges of particular places. These maps claim to be more authentic because they are
+based on native people’s knowledge rather than the imposed knowledge of the colonizers. In many cases the Indigenous maps rely
+on the same cartographic assumptions as those maps of the colonizers, because, in order to be effective, they must still be legible to
+the state. This practice risks creating maps that reify and ﬁx what are dynamic and ﬂuid spatial relations and knowledges, in ways
+that can ultimately reproduce the bounded cartographies of the state.
+Since the beginning, Indigenous mapping has generally taken two forms: one being a top-down form of counter-mapping
+initiated by geographers, anthropologists, and other professionals usually funded by large international NGOs, and a bottomup form organized by local activists and community groups, with the help of local GIS experts. Some experiences have focused
+on teaching mapmaking skills, including GIS and other technical skills, and distributing the necessary technology to Indigenous
+community members with the idea that this would empower them to make their own maps without needing to rely on external
+expertise. Yet other projects have been content merely to rely on Indigenous informants for data collection, leaving communities
+with little in return for the efforts. Since the 1990s, the practice of Indigenous mapping has become increasingly mainstreamed as
+it is adopted and promoted by institutions such as the World Bank and funded by international ﬁnancial institutions, powerful
+states, development agencies, and transnational NGOs. For many of these organizations, Indigenous mapping serves as a way to
+peacefully resolve territorial disputes and to implement property relations by insisting that the maps portray delimited territories.
+In this way, Indigenous mapping is used to ensure governance and property relations, stripping it of its original political intentions of helping Indigenous nations achieve sovereign control of their territories. Mainstreaming of Indigenous mapping has also
+been critiqued for the differential empowerment of those involved, the construction of boundaries on the maps which ultimately
+led to reduced trans-community collaboration and a reinscription of state power, and a loss of morale when the maps have little
+impact on state power.
+Community mapping can also serve as a way to extract Indigenous and local knowledges about a place for the beneﬁts of the
+state and capital. The most controversial example of this practice was the Bowman Expeditions, funded by the US military, without
+the knowledge of the local communities participating in the mapping. The mapping activities were depicted to local participants as
+a form of community Indigenous mapping, the data collected through the project is then turned over to the US military where it is
+feared it will be used in counterinsurgency efforts. The project also functioned as an attempt to rationalize land ownership through
+cadastral mapping and to break down common land holdings that are difﬁcult to tax and to govern. When this situation came to
+light, it caused uproar in many of the Indigenous communities in Mexico who had participated in these expeditions, who have since
+called for their data to be returned to them and for the researchers to issue an apology.
+Other forms of Indigenous mapping are not as legible to the state and therefore may open up new possibilities for countermapping. There is, of course, a long history of Indigenous mapping, although in ways that may not be legible to the state or to
+Western cartographers as maps. One contemporary example of collecting these maps can be found in the Decolonial Atlas,
+a growing collection of maps online, with the stated goals of challenging the assumptions of cartography’s neutrality or objectivity, as well as human relationship with the land, other people, and the state. Calls to “decolonize the map” insist on questioning a map’s orientation, projection, inclusion, or exclusion of particular features and borders, the names given to features, etc. The
+project has been especially committed to restoring Indigenous place names to maps as part of a broader political project to revitalize Indigenous languages. Similarly, many Indigenous groups have recently turned to counter-mapping to ﬁght intensiﬁed
+resource extraction. For example, the Waorani in Ecuador have developed a multistep counter-mapping process that combines
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+426
+
+Countermapping
+
+hand-drawn maps with maps made using GPS and GIS technology. These maps are used to raise awareness about the dangers to
+the community of oil extraction and to gain support for their struggle, while also serving as an important tool for building solidarity within the community and encouraging discussion about the sustainable use of resources. A variety of other Indigenous
+groups around the world are engaged in similar projects, learning from previous experiences to be wary of outside researchers and
+experts, and instead making the maps on their own terms. Ultimately, the principle contribution of different types of Indigenous
+mapping, regardless of the different ways they are created, used, and read, has been to call into question the state’s legitimacy and
+authority to make the map, showing that the map is never neutral and that Indigenous people are fully capable of making their
+own maps (Fig. 1).
+
+Figure 1
+
+Map produced by the Critical Geography of Collective of Ecuador in 2016 of mining projects endangering Shua territory.
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+Countermapping
+
+427
+
+Community Counter-Mapping
+Counter-mapping processes have also arisen in a variety of other marginalized communities. Different practices of communitybased and participatory mapping have been used for decades in community organizing, as a way to make community issues
+and needs visible and to negotiate with the state. Like Indigenous mapping, community mapping often explicitly serves an instrumental purpose to intervene in speciﬁc campaigns or legal struggles, but it also functions to build community cohesion and power
+through a more democratic mapping process. PPGIS is often discussed in this regard, as a way to democratize GIS use. There are
+important limitations to PPGIS as a counter-mapping method: (1) The notion of the public as it is invoked in PPGIS is usually
+limited to “stakeholders,” leaving out large segments of the public; (2) the processes of participation is often limited to participation
+in data collection and does not include the mapping and analysis of spatial data; (3) the reliance on GIS technology limits these
+maps’ abilities to question either cartographic conventions or state power. PPGIS often ends up reproducing hierarchical divisions
+between cartographic experts and community members and reifying a certain idea of a scientiﬁc map. Despite these limitations of
+PPGIS, there are a myriad of other examples of community-based mapping that do manage to be more democratic and to challenge
+the authority of state cartography.
+One of the most inﬂuential experiences of community-based mapping in Anglophone geography is that of the Detroit
+Geographic Expedition and Institute (DGEI). The project was cofounded in the late 1960s by William Bunge, a white geography
+professor at Wayne State University, and Gwendolyn Warren, a young Black community activist. Inﬂuenced both by the era’s political uprisings and a wave of radical geographic scholarship, the DGEI sought to create a geographic practice that would be useful to
+the struggles sweeping the country. The project included multiple aspects: community instruction in mapping techniques, geographic
+exploration of downtown Detroit, and the publication of maps and monographs. Community members engaged in in-depth on the
+ground exploration of particular urban areas so that they could contribute knowledge in a nonextractive way. These community
+members were essential not only in collecting the data but also in deciding what type of data mattered and deciding how that
+data would be displayed. The ﬁnal products vividly demonstrate racism and inequality in the city of Detroit in maps such as “Region
+of Rat-Bitten Babies” and “Where White Commuters Run over Black Children on the Pointes-Downtown Track.” These maps largely
+appropriated the statistical techniques and the technical design and aesthetics of the dominant quantitative cartography of the time
+in order to propose the subjective experiences of inner-city community members as geographic facts. The maps themselves were
+used in local political struggles and the processes of urban exploration and community training were essential in building the skills
+and conﬁdence of participants. Due to its innovations both in the maps themselves and in the mapping process, the DGEI continues
+to be an important reference for counter-mapping projects in the United States and beyond.
+A contemporary project that makes cutting-edge use of technology in mapping for social justice can be found in the Anti-Eviction
+Mapping Project (AEP). Operating primarily in the San Francisco Bay Area, with additional chapters in Los Angeles and New York
+City, the AEP engages in data visualization, mapping, and analysis around issues of gentriﬁcation, evictions, and urban speculation.
+The project has produced detailed and powerful visualizations that are rich analytical tools for understanding the relationships
+between gentriﬁcation, displacement, the tech industry, and ﬁnancialization of the economy. Their maps have a clear political
+purpose of contributing to the ﬁght against the displacement of people of color and low-income people from urban centers and
+they have been used in campaigns around speciﬁc policies and to create a shared analysis around the causes and effects of gentriﬁcation. As part of a self-proclaimed anti-racist, feminist, and decolonial methodology, the project includes collaborations and alliances with other community groups in order to collect and distribute data as well as to build tools that can contribute to movement
+building and organizing collective resistance. While many of the AEP’s maps focus on the display of quantitative data on gentriﬁcation, another part of the project focuses on the qualitative and subjective side of displacement. The Narratives of Displacement
+and Resistance project embeds oral history and video work in a digital geospatial interface in order to make visible the life stories of
+people who not only have been affected by gentriﬁcation but also are actively studying and resisting it. Through these diverse
+elements of its project, the AEP is able to both quantitatively and qualitatively analyze and map the effects of gentriﬁcation, allowing
+the maps, and the mapping process, to play a key role in the struggle against displacement.
+A very different and more low-tech, but very democratic, version of counter-mapping can be found in the proliferating examples
+of “People’s Atlases.” The Notes for a People’s Atlas project was initiated in 2005 by AREA, a magazine about art, research, education, and activism in Chicago, largely inﬂuenced by the mental map, art mapping, and psychogeography practices of the 1960s and
+1970s. The project involving distributing copies of a blank outline map of the city of Chicago throughout the city, leaving them in
+newspaper boxes or handed out at events, and encouraging any- and everyone to make their own map by simply drawing on the
+paper. The maps would then be mailed back to AREA by the mapmakers and were later included in a series of local exhibitions, in
+which more blank maps would be handed out, repeating the cycle. The maps of Chicago varied enormously in their depictions of
+the city, from psychogeography of sensations associated with different parts of the city to depictions to the everyday problems of
+urban life related to transportation, housing, and care. Later the idea of people’s atlases spread to cities around the world, from
+Zagreb, Croatia, to Valparaiso, Chile, where local organizations would “host” the project, distributing and collecting the maps
+and embedding the process in local networks. While not as explicitly political as some of the other examples of countermapping, there was something fundamentally radical about the Notes for a People’s Atlas: the very idea that the people themselves
+can make the map, they do not need to rely on train and certiﬁed experts, but have their own spatial knowledges that counts.
+In Argentina, the collective Iconoclasistas has developed its own unique form of collective mapping and produced a number
+of beautiful counter-maps about resource extraction, gentriﬁcation, and resistance in Latin America. The collective primarily functions through workshops that bring together residents of a deﬁned geographic area or members of a speciﬁc community
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+428
+
+Countermapping
+
+organization to create maps of common problems or issues. The workshops use a set of icons, organized around themes such as
+dispossession, precarity, resistance, and diversity, to encourage the mapping of aspects that are usually excluded from dominant
+maps. Through these workshops, they attempt to use mapping to bring people together and strengthen community organizations. Along with other feminist mapping collectives, they have also developed practices of “body-mapping”: drawing on
+outlines of the human body to indicate emotions and sensations. This is part of the collective’s work on feeling-thinking maps,
+or maps that aim to capture subjective elements of life not considered to be scientiﬁc or neutral enough to be included in ofﬁcial
+maps. Since they do not rely on digital technology, the workshops can be held anywhere, sometimes they are held in the streets or
+plazas as part of larger protests or festivals, and anyone can participate, challenging notions of expertise or the division between
+the map expert and the community member or participant. Indeed Iconoclasistas makes the icons available online for free and
+encourage everyone to use them to make their own maps. As part of this effort, their Manual of Collective Mapping gives guidelines
+and best practices for conducting collective counter-mapping. For Iconoclasistas, the process of collectively constructing the map
+is as an essential element of counter-mapping that encourages collective reﬂection and the establishment of a common narrative,
+which is then reﬂected in subsequent spatial practices (Fig. 2).
+These few examples only begin to paint a picture of the wide variety of community counter-mapping practices. Countless
+community organizations have used mapping in efforts to combat the power of the state and capital, especially in relation to environmental racism, gentriﬁcation, surveillance, and policing. These processes aim not only to construct maps that challenge the
+dominant maps but also to make maps differently, in more democratic ways as opposed to those maps created by experts and
+imposed by state violence. But these community counter-mapping processes are not without their own contradictions. Often
+lack of time, funds, or commitment means that a tension arises between experts with cartographic training or access to technology
+and community members with the knowledge of local spaces. Such is especially the case as more digital methods are used, which
+require more expertise or access to technology, making a true democratization of the mapmaking process difﬁcult. As the work of
+the People’s Atlases or Iconoclasistas shows, digital technology is not needed to make counter-maps and there need not be any
+expert involved in the process at all. Here mapping can instead be used as an important tool for building community power
+and its capacities to collectively intervene in the matters that affect it.
+
+Counter-Mapping by Social Movements
+As social movements confront changing spatial coordinates of conﬂict, many have turned to counter-mapping in order to understand and intervene in political and economic processes, mapping the complicated webs of power they are resisting and using
+mapping as a process to create new networks of resistance. Various organizations and collectives involved in the global justice
+movement, migrant movements, and movements against precarity have particularly engaged in creative forms of countermapping that challenge cartographic conventions and expertise, emphasize diverse types of data, and propose new spatial relations on and off paper. The maps made by social movements attempt to apply their values and ways of doing politics to all parts
+of the mapmaking process: from the conception, research, and design to the actual production, analysis, and distribution. These
+maps serve not only to critique power relations then, but also to transform existing spaces and preﬁgure alternatives. When social
+movements make their own maps, the process often deﬁes the distinctions between an expert mapper and a community base
+(who are supposed to supply the knowledge or the data but rarely the technical skills). By challenging these divisions and distinctions, this form of social movement mapping has the potential to be radically democratic in a way that few other mapping
+processes are.
+Many of the counter-maps produced by social movements seek to map what it is they are up against: maps of power. Governing by Networks, produced by the Paris-based collective Bureau d’études, is one such map (2003). It ﬁrst appears more like
+a complicated diagram or ﬂowchart, showing the workings of a complex machine. The map attempts to make visible the
+connections tying together different global media conglomerates as part of an effort to better understand a system of power
+that usually remains hidden or obscured. Like their other maps, this one was distributed for free at large anti-globalization
+mobilizations and through squatter and other activist networks across Europe and is intended to be a tool for those social
+movements, helping them to conceptualize the complex workings of power in the era of globalization. That the map itself
+is quite complicated and difﬁcult to read is part of their critique: that power itself is often hidden and unaccountable to
+any form of democratic counterpower. Other maps by Bureau d’études show the ﬂip side of these maps of power: resistance
+to power or counterpower, as we see in Inkling of Autonomy. Here the design is notably different from the maps of power: less
+machinic, softer lines, less ﬁxed borders, more bubbly. These design elements also tell us something about how Bureau
+d’études views this resistance or this autonomy as something that is always ﬂuid and in ﬂux. These mappings of power and resistance are one key strand of contemporary counter-mapping, in which the maps are useful both as part of a process of research
+and analysis, as well as for inspiring action.
+Imposing borders is one of the primary functions of dominant maps so it is not surprising that borders have also become an
+important theme for counter-mapping (Fig. 3). One of the most striking examples is the map of the Straights of Gibraltar,
+produced by the Fadaiat Collective. From its outset, the map challenges several cartographic conventions with the sea standing
+out against the more lightly colored land, the South on top. It also challenges political assumptions: the sea is not empty or
+solely a space of separation, but constantly traversed by ﬂows of people, information, goods, weapons, and money; Europe is
+not “superior” to Africa. By showing the ocean as a space of connection and ﬂows, the map denaturalizes the border,
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+Countermapping
+
+Figure 2
+
+Map produced by Iconoclasistas: “X-Ray of the heart of the soy model: Another Pampa is possible!” (2010).
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+429
+
+430
+
+Countermapping
+
+Figure 3
+
+Map Straights of Gibraltar, produced by the Fadaiat Collective.
+
+highlighting its artiﬁcial nature and the multiple actors who both maintain and challenge that border. The process of making
+the map itself was a political one: involving groups from both sides of the Straights of Gibraltar, including activist hackers,
+artists, and architects, making the map was part of a broader process of establishing the Straights Indymedia and involved
+the creation of wireless infrastructure and channels of communication across the increasingly militarized border. Thus the
+map of the Straights of Gibraltar works as a counter-map in various ways: it deﬁes cartographic conventions; it maps alternative
+visions (or “data”) of the space of the Mediterranean; and the process of making the map produces new assemblages that are
+able to challenge the militarized control of the border. In recent years there has been a proliferation of border countermappings by activist groups and NGOs, for example, mapping migrant deaths in the Mediterranean or in the US desert, or
+mapping the externalization of border policing by the European Union.
+Other counter-mapping practices aim primarily to disrupt dominant visions and understandings of spaces, opening those spaces
+up to political contestation. One such example is the disOrientation Guide produced by the Counter-Cartographies Collective based
+in Chapel Hill, North Carolina (2006). The guide is made up of distinct maps, with different guiding frameworks and perspectives,
+which coalesce to place the university in its economic and environmental context, and call attention to the university’s role within
+a global political economy of knowledge production based on colonial power structures. In more general terms, these maps challenge the authority of the map by showing that there is always more than one way of understanding a place; one map can never tell
+the whole story or be completely representative. Developing the idea of cartography as a form of militant research, the CounterCartographies Collective collaborated with students in London to conduct a series of workshops, research drifts, and interviews
+about the privatization of higher education and the policing of migrant ﬂows in British universities (Fig. 4). This work resulted
+in a map which combines hand-drawn images with digitally produced maps to show both the quantitative and qualitative aspects
+of student migration and hierarchies within academic spaces. On the verso, a board game takes up a more metaphorical concept of
+mapping to take players through a year in the life of an international student in an attempt to show more of the subjective experience of migrating which is hard to capture in a map. The process was also signiﬁcant for the formation of a new activist collective
+and the creation of a new analysis and discourse that linked these previously separate issues. These maps both challenge cartographic conventions and, more importantly, aim to introduce new ways of conceptualizing relationships across space in ways
+that challenge dominant forms of power.
+Many counter-mappings are not aimed at negotiating with the state or even at seizing state power, but at constructing forms of
+counterpower that operate autonomously. They attempt to use mapping as a tool to build collective subjectivities, shared analyses,
+and common values. The process of making the maps builds group cohesion and new skills and capacities among participants.
+Counter-mapping practices build directly on the critiques of ofﬁcial cartography: its role in establishing and maintaining the
+nation-state, colonial conquest, and capitalist social relations. These critiques also show that the map is never, despite all its proclamations, representative, rather, the map itself is productive. In other words, no map can claim to merely represent existing reality.
+Instead, it produces ways of seeing, spatial practices, forms of subjectivity, and narratives. Social movements build on this critique to
+make their own propositions through mapping, seeking to create alternative ways of understanding spatial relations and, in turn,
+different practices. Ultimately, however, the success of these counter-maps depends on the social movements and networks of
+struggle in which they are embedded.
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+Countermapping
+
+Figure 4
+
+Images from the Counter-Mapping Queen Mary Map, produced by the Counter-Cartographies Collective with students at Queen Mary University.
+
+431
+
+432
+
+Countermapping
+
+Future Developments
+Recent trends in counter-mapping tend to bring together the three categories described abovedIndigenous mapping, community
+mapping, and social movement counter-mappingdin projects that involve participatory mapping of people involved in social
+movements from a decolonial perspective. Much of this work also builds on feminist GIS and feminist critiques of cartography
+in order to bring an embodied perspective into the map and utilize feminist methodologies in the mapmaking process. For
+example, feminist cartography collectives in Ecuador, Mexico, and other parts of Latin America are making counter-maps that
+connect the exploitation of bodies to the exploitation of territories. There has also been a signiﬁcant increase in countermapping projects concerned with demonstrating the negative social and environmental effects of extractivist industries such as
+mining, drilling for gas, and industrial agriculture. Other decolonial maps attempt to reﬂect Indigenous ways of life and relationships with a speciﬁc territory. Many groups combine these different concerns, for example, the Critical Geography Collective of
+Ecuador, which maps violence against Indigenous groups and against women, using a variety of collaborative methods. While
+another group in EcuadordCritical Views of Territory based on Feminismdhas developed a guide to mapping bodies and territories that allows them to map how speciﬁc bodies and places are affected by the violence of the state and of capital. While all these
+counter-maps run the risk of replicating dominant power relations or setting ﬁxed borders, a careful attention to the mapmaking
+process and its effects can help counter-mapping avoid those dangers. These different experiences demonstrate how countermapping can be a tool for social justice, to help marginalized people make claims for territories or neighborhoods, resources or
+services, and also a process that creates new relationships and new capacities.
+
+See Also: Decolonization; Psychogeography.
+
+Further Reading
+Brody, H., 1998. Maps and Dreams: Indians and the British Columbia Frontier. Waveland Press, Prospect Heights, IL (First Publ. 1981).
+Bryan, J., Wood, D., 2015. Weaponizing Maps: Indigenous Peoples and Counterinsurgency in the Americas. The Guilford Press, New York.
+Dalton, C., Mason-Deese, L., 2012. Counter (mapping) actions: mapping as militant research. ACME An Int. E-J. Crit. Geogr. 11 (3), 439–466.
+Freeman, M.M.R. (Ed.), 1976. Inuit Land Use and Occupancy Project. Ministry of Supply and Services Canada, Ottawa.
+Guntram, H., et al., 2009. Intervention: mapping is critical! Political Geogr. 28 (6), 332–342.
+Hunt, D., Stevenson, S.A., 2017. Decolonizing geographies of power: indigenous digital counter-mapping practices on Turtle Island. Settler Colonial Studies 7 (3), 372–392.
+Iconoclasistas, 2016. Manual of Collective Mapping. Critical Cartographic Resources for Territorial Processes of Collaborative Creation. http://www.iconoclasistas.net/mapeocolectivo/.
+Knudson, C., 2017. Detroit, geographical, expedition, Institute: unpacking the history and structure of the DGEI. In: Antipode Symposium. https://radicalantipode.ﬁles.wordpress.
+com/2017/02/dgei-ﬁeld-notes_chris-knudson.pdf.
+Kollektiv orangotango (Ed.), 2018. This Is Not at Atlas: A Global Collection of Counter-cartographies. Transcript Verlag, Bielefeld, Germany.
+Maharawal, M., McElroy, E., 2018. The anti-eviction mapping project: counter mapping and oral history toward Bay area housing justice. Ann. Assoc. Am. Geogr. 108 (2),
+380–389.
+Mogel, L., Bhagat, A. (Eds.), 2007. An Atlas of Radical Cartography. Journal of Aesthetics and Protest Press, Los Angeles.
+Peluso, N., 1995. Whose woods are these? Counter-mapping forest territories in Kalimantan, Indonesia. Antipode 27, 383–406.
+Riewe, R., 1992. Nunavut Atlas. Canadian Circumpolar Institute and the Tungavik Federation of Nunavut, Edmonton.
+Wood, D., 2010. Rethinking the Power of Maps. The Guilford Press, New York.
+
+Relevant Websites
+This is Not an Atlas: https://notanatlas.org/.
+Counter-Cartographies Collective: https://www.countercartographies.org/.
+Iconoclasistas: http://www.iconoclasistas.net/.
+Anti-Eviction Mapping Project: https://www.antievictionmap.com/.
+Decolonial Atlas: https://decolonialatlas.wordpress.com/.
+
+International Encyclopedia of Human Geography, Second Edition, 2020, 423–432
+
+

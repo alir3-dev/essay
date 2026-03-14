@@ -1,0 +1,261 @@
+Week 5: MAPPABLE DATA
+What “counts” as data? What knowledge
+possibilities are opened and closed by collecting
+and representing some kinds of data but not
+others?
+Dr. Ryan Burns
+Interdisciplinary Arts & Sciences
+Responsible AI Washington
+Winter 2026
+rlburns@uw.edu
+
+Week 5: MAPPABLE DATA
+Read:
+•KW Chapter 3; M Ch4, 11
+
+Mapping practice #2: Mappable Data
+
+“Phenomena are all the stuff in the real world. Data are records
+of observations of phenomena. Maps show us data, not
+phenomena.” –K&W, 60
+“Ignorance exists in the map, not in the territory.”
+Eliezer Yudkowsky, Mysterious Answers to Mysterious Questions
+(2007)
+
+key terms/concepts recap:
+projection
+scale
+feature generalization
+symbols and symbolization
+visual variables
+
+visual
+variables
+
+https://sk.sagepub.com/ency/edvol/geoinfoscience/chpt/visual-variables#_
+
+visual
+variables
+
+what is mappable data?
+phenomenon translation
+data models
+blunders/accuracy
+what counts as mappable?
+…what else?
+
+https://en.wikipedia.org/wiki/Adansonia_grandidieri
+
+what is this?
+
+https://publicdelivery.org/magritte-not-a-pipe/
+
+https://en.wikipedia.org/wiki/Adansonia_grandidieri
+
+what is this?
+
+translation
+aggregation
+
+important
+concept, captured
+in message
+
+what is mappable data?
+phenomenon translation
+data models
+blunders/accuracy
+what counts as mappable?
+…what else?
+
+raster vs vector
+https://gis.stackexchange.com/questions/7077/what-are-raster-and-vector-data-in-gis-and-when-to-use
+
+continuous
+
+discrete
+
+https://www.reuters.com/pictures/aerial-photos-show-scale-destruction-across-gaza-2025-08-18/
+
+https://www.drcc.org/sources-of-pollution-to-the-river
+
+https://www.pugetsoundinstitute.org/environmental-justice-on-the-move-a-few-personal-observations-about-change/
+
+usually a decent model for
+“natural” phenomena
+size of the “measurement” –
+the cell – is arbitrary
+less computationally efficient
+than the discrete model
+
+measurable at any point
+
+Modified from Fig 3.8; Longley et al. (2005)
+
+Mixed conifer
+
+Oak savannah
+
+Douglas fir
+
+Grassland
+
+continuous
+model
+
+problematic for many ‘natural’
+phenomena
+
+https://news.ballotpedia.org/2025/10/24/north-carolina-the-thirdstate-to-redraw-congressional-districts-ahead-of-the-2026-elections/
+
+easily represented by discrete
+symbols
+
+powerful and efficient
+can be counted
+well-defined boundaries
+
+discrete
+model
+
+https://gistbok-topics.ucgis.org/DM-02-010
+
+vector (continuous!) files:
+triangulated irregular networks
+
+raster vs vector: which is better?
+
+what is mappable data?
+phenomenon translation
+data models
+blunders/accuracy
+what counts as mappable?
+…what else?
+
+blunders,
+accuracy
+blunders can
+reveal more
+than the ‘real’
+maps!
+accuracy is more
+than precision
+
+what is mappable data?
+phenomenon translation
+data models
+blunders/accuracy
+what counts as mappable?
+…what else?
+
+what counts as data?
+problem-framing, quantification, and
+digital divide
+
+the subjects of smart cities
+who benefits from techno-utopias?
+
+relational, situated visualizations
+
+Kwan, M.-P. 2008. From Oral Histories to
+Visual Narratives… Social and Cultural
+Geography.
+
+what counts as data?
+problem-framing, quantification, and
+digital divide
+
+the subjects of smart cities
+who benefits from techno-utopias?
+
+relational, situated visualizations
+
+Kwan, M.-P. 2008. From Oral Histories to
+Visual Narratives… Social and Cultural
+Geography.
+
+what counts as data?
+problem-framing, quantification, and
+digital divide
+
+the subjects of smart cities
+who benefits from techno-utopias?
+
+relational, situated visualizations
+
+Kwan, M.-P. 2008. From Oral Histories to
+Visual Narratives… Social and Cultural
+Geography.
+
+what counts as data?
+problem-framing, quantification, and
+digital divide
+
+the subjects of smart cities
+who benefits from techno-utopias?
+
+relational, situated visualizations
+
+Kwan, M.-P. 2008. From Oral Histories to
+Visual Narratives… Social and Cultural
+Geography.
+
+what counts as data?
+problem-framing, quantification, and
+digital divide
+
+the subjects of smart cities
+who benefits from techno-utopias?
+
+relational, situated visualizations
+
+Kwan, M.-P. 2008. From Oral Histories to
+Visual Narratives… Social and Cultural
+Geography.
+
+https://journals.ed.ac.uk/airea/article/view/2799
+
+https://www.opb.org/article/2022/10/10/which-indigenous-lands-are-you-on-this-map-will-show-you/
+
+“…scientific objectivity as conventionally understood is
+predicated on the positionality of a disembodied master
+subject with transcendent vision, which [Donna Haraway]
+describes as ‘the god-trick of seeing everything from
+nowhere’—where the knower is capable of achieving a
+detached view into a separate, completely knowable
+world… This kind of knowledge denies the partiality of
+the knower, erases subjectivities, and ignores the nexus
+of power-knowledge in its discursive practice. Feminist
+critics see this mode of knowledge production as
+masculinist.” –Kwan, p. 647
+
+“…scientific objectivity as conventionally understood is
+predicated on the positionality of a disembodied master
+subject with transcendent vision, which [Donna Haraway]
+describes as ‘the god-trick of seeing everything from
+nowhere’—where the knower is capable of achieving a
+detached view into a separate, completely knowable
+world… This kind of knowledge denies the partiality of
+the knower, erases subjectivities, and ignores the nexus
+of power-knowledge in its discursive practice. Feminist
+critics see this mode of knowledge production as
+masculinist.” –Kwan, p. 647
+
+Today
+
+HUMANITARIAN OPENSTREETMAP TEAM DATA MODEL
+…”would you see any relevance to develop classes for natural
+(and man-made?) hazards to be included in HOSM framework?”
+“…average
+“…visible on the
+person…”
+ground…”
+“top-down information … place-based knowledge systems
+… counter intuitive to initiatives to 'democratize' data?”
+“…my experience with communities… local people
+know very well where the main hazard zones are
+located… every year… ‘My father told me…”
+“…we should aim at a fork-project…”
+http://wiki.openstreetmap.org/wiki/OpenHazardMap
+
+
